@@ -1,0 +1,41 @@
+﻿  stdafx.cpp
+  TreeParser.cpp
+  TokenStreamSelector.cpp
+  TokenStreamHiddenTokenFilter.cpp
+  TokenStreamBasicFilter.cpp
+  TokenBuffer.cpp
+  Token.cpp
+  String.cpp
+d:\program\游戏编程精粹1-7\《游戏编程精粹7》光盘源代码\6 networking and multiplayer\01 high-level abstraction of game world synchronization\antlrlib\string.cpp(27): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+  RecognitionException.cpp
+  Parser.cpp
+  NoViableAltForCharException.cpp
+d:\program\游戏编程精粹1-7\《游戏编程精粹7》光盘源代码\6 networking and multiplayer\01 high-level abstraction of game world synchronization\antlrlib\antlr\charscanner.hpp(537): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _stricmp. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(568): note: see declaration of 'stricmp'
+  NoViableAltException.cpp
+  MismatchedTokenException.cpp
+  MismatchedCharException.cpp
+d:\program\游戏编程精粹1-7\《游戏编程精粹7》光盘源代码\6 networking and multiplayer\01 high-level abstraction of game world synchronization\antlrlib\antlr\charscanner.hpp(537): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _stricmp. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(568): note: see declaration of 'stricmp'
+  LLkParser.cpp
+  InputBuffer.cpp
+  dll.cpp
+  CommonToken.cpp
+  CommonHiddenStreamToken.cpp
+  CommonASTWithHiddenTokens.cpp
+  CommonAST.cpp
+  Generating Code...
+  Compiling...
+  CharScanner.cpp
+d:\program\游戏编程精粹1-7\《游戏编程精粹7》光盘源代码\6 networking and multiplayer\01 high-level abstraction of game world synchronization\antlrlib\antlr\charscanner.hpp(537): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _stricmp. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(568): note: see declaration of 'stricmp'
+  CharBuffer.cpp
+  BitSet.cpp
+  BaseAST.cpp
+  ASTRefCount.cpp
+  ASTNULLType.cpp
+  ASTFactory.cpp
+  ANTLRUtil.cpp
+  Generating Code...
+  antlrlib.vcxproj -> D:\Program\游戏编程精粹1-7\《游戏编程精粹7》光盘源代码\6 Networking And Multiplayer\01 High-Level Abstraction of Game World Synchronization\antlrlib\Debug\antlrlib.lib

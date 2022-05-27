@@ -1,0 +1,18 @@
+﻿  stdafx.cpp
+  GLRThreadTest.cpp
+  GLRThreadingExample.cpp
+  GLRThreadWindows.cpp
+  GLRThreadProperties.cpp
+  GLRThreadPoolProperties.cpp
+  GLRThreadPool.cpp
+  GLRThreadFoundation.cpp
+  GLRThreadExecutionPropsWin32.cpp
+  GLRThreadExecutionProps.cpp
+  GLRThread.cpp
+  GLRSystemDescWin32.cpp
+  GLRSystemDesc.cpp
+  GLRLog.cpp
+  Generating Code...
+GLRLog.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/SAFESEH' specification
+  GLRThreadingExample.vcxproj -> D:\Program\游戏编程精粹1-7\《游戏编程精粹7》光盘源代码\1 General Programming\04 Design and Implementation of a Multi-Platform Threading Engine\GLRThreadingExample\Debug\GLRThreadingExample.exe
+  GLRThreadingExample.vcxproj -> Debug\GLRThreadingExample.pdb (Full PDB)

@@ -1,0 +1,38 @@
+﻿  lapi.c
+  lauxlib.c
+  lbaselib.c
+  lcode.c
+  ldblib.c
+  ldebug.c
+  ldo.c
+  ldump.c
+  lfunc.c
+  lgc.c
+  linit.c
+  liolib.c
+src\liolib.c(402): warning C4013: 'dprintf' undefined; assuming extern returning int
+  llex.c
+  lmathlib.c
+  lmem.c
+  loadlib.c
+  lobject.c
+  lopcodes.c
+  loslib.c
+  lparser.c
+  Generating Code...
+  Compiling...
+  lstate.c
+  lstring.c
+  lstrlib.c
+  ltable.c
+  ltablib.c
+  ltm.c
+  lua.c
+  luac.c
+  lundump.c
+  lvm.c
+  lzio.c
+  print.c
+  Generating Code...
+lua.obj : warning LNK4221: This object file does not define any previously undefined public symbols, so it will not be used by any link operation that consumes this library
+  Lua 5.1.vcxproj -> D:\Program\游戏编程精粹1-7\《游戏编程精粹7》光盘源代码\3 AI\06 Goal-Oriented Plan Merging\Debug\Lua 5.1.lib

@@ -1,0 +1,8 @@
+﻿  main.cpp
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\exception(359): warning C4577: 'noexcept' used with no exception handling mode specified; termination on exception is not guaranteed. Specify /EHsc
+  hpha.cpp
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\exception(359): warning C4577: 'noexcept' used with no exception handling mode specified; termination on exception is not guaranteed. Specify /EHsc
+  Generating Code...
+hpha.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/SAFESEH' specification
+  hpha.vcxproj -> D:\Program\游戏编程精粹1-7\《游戏编程精粹7》光盘源代码\1 General Programming\02 High Performance Heap Allocator\Debug\hpha.exe
+  hpha.vcxproj -> D:\Program\游戏编程精粹1-7\《游戏编程精粹7》光盘源代码\1 General Programming\02 High Performance Heap Allocator\Debug\hpha.pdb (Full PDB)

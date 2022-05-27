@@ -1,0 +1,135 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="Debug|Win32">
+      <Configuration>Debug</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|Win32">
+      <Configuration>Release</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <ProjectGuid>{4BB41E28-EF58-47E6-98DB-0C963FAA7BCE}</ProjectGuid>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <PlatformToolset>v140</PlatformToolset>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <PlatformToolset>v140</PlatformToolset>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
+  <ImportGroup Label="ExtensionSettings">
+  </ImportGroup>
+  <ImportGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="PropertySheets">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="PropertySheets">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <PropertyGroup Label="UserMacros" />
+  <PropertyGroup>
+    <_ProjectFileVersion>14.0.25431.1</_ProjectFileVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <OutDir>$(SolutionDir)$(Configuration)\</OutDir>
+    <IntDir>$(Configuration)\</IntDir>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <OutDir>$(SolutionDir)$(Configuration)\</OutDir>
+    <IntDir>$(Configuration)\</IntDir>
+  </PropertyGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <ClCompile>
+      <Optimization>Disabled</Optimization>
+      <AdditionalIncludeDirectories>C:\Documents and Settings\dawem\My Documents\CS520\Plan Merging Demo\Goals;C:\Documents and Settings\dawem\My Documents\CS520\Plan Merging Demo\AStar;C:\Documents and Settings\dawem\My Documents\CS520\Plan Merging Demo\Actions;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <PreprocessorDefinitions>_DEBUG;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <RuntimeLibrary>MultiThreadedDebug</RuntimeLibrary>
+      <WarningLevel>Level3</WarningLevel>
+      <DebugInformationFormat>EditAndContinue</DebugInformationFormat>
+    </ClCompile>
+    <Link>
+      <AdditionalLibraryDirectories>glut32/;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+      <IgnoreSpecificDefaultLibraries>LIBCMT;%(IgnoreSpecificDefaultLibraries)</IgnoreSpecificDefaultLibraries>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <Link>
+      <AdditionalLibraryDirectories>glut32/;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemGroup>
+    <ClCompile Include="Actions\Action.cpp" />
+    <ClCompile Include="Actions\ActionDictionary.cpp" />
+    <ClCompile Include="Actions\Attack.cpp" />
+    <ClCompile Include="Actions\ContextPrecondition.cpp" />
+    <ClCompile Include="Actions\GetItemAction.cpp" />
+    <ClCompile Include="Actions\GoTo.cpp" />
+    <ClCompile Include="Actions\Patrol.cpp" />
+    <ClCompile Include="Actions\ReturnItemAction.cpp" />
+    <ClCompile Include="Agent.cpp" />
+    <ClCompile Include="AgentFactory.cpp" />
+    <ClCompile Include="AStar\AStar.cpp" />
+    <ClCompile Include="AStar\Node.cpp" />
+    <ClCompile Include="AStar\PriorityQueue.cpp" />
+    <ClCompile Include="AStar\PriorityQueueStorage.cpp" />
+    <ClCompile Include="AStar\Storage.cpp" />
+    <ClCompile Include="glfont2.cpp" />
+    <ClCompile Include="Goals\GetItemGoal.cpp" />
+    <ClCompile Include="Goals\Goal.cpp" />
+    <ClCompile Include="Goals\PatrolGoal.cpp" />
+    <ClCompile Include="LuaWrapper.cpp" />
+    <ClCompile Include="main.cpp" />
+    <ClCompile Include="Plan.cpp" />
+    <ClCompile Include="World.cpp" />
+    <ClCompile Include="WorldProperty.cpp" />
+    <ClCompile Include="WorldState.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Actions\Action.h" />
+    <ClInclude Include="Actions\ActionDictionary.h" />
+    <ClInclude Include="Actions\Attack.h" />
+    <ClInclude Include="Actions\ContextPrecondition.h" />
+    <ClInclude Include="Actions\GetItemAction.h" />
+    <ClInclude Include="Actions\GoTo.h" />
+    <ClInclude Include="Actions\Patrol.h" />
+    <ClInclude Include="Actions\ReturnItemAction.h" />
+    <ClInclude Include="Agent.h" />
+    <ClInclude Include="AgentFactory.h" />
+    <ClInclude Include="AStar\AStar.h" />
+    <ClInclude Include="AStar\Node.h" />
+    <ClInclude Include="AStar\PriorityQueue.h" />
+    <ClInclude Include="AStar\PriorityQueueStorage.h" />
+    <ClInclude Include="AStar\Storage.h" />
+    <ClInclude Include="glfont2.h" />
+    <ClInclude Include="glinc.h" />
+    <ClInclude Include="global.h" />
+    <ClInclude Include="Goals\GetItemGoal.h" />
+    <ClInclude Include="Goals\goal.h" />
+    <ClInclude Include="Goals\PatrolGoal.h" />
+    <ClInclude Include="LuaWrapper.h" />
+    <ClInclude Include="Plan.h" />
+    <ClInclude Include="WorkingMemoryFact.h" />
+    <ClInclude Include="World.h" />
+    <ClInclude Include="WorldProperty.h" />
+    <ClInclude Include="WorldState.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Lua Scripts\main.lua" />
+    <None Include="Lua Scripts\patrol.lua" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="Lua 5.1\Lua 5.1.vcxproj">
+      <Project>{29e0379a-37b1-4846-adc0-9b56ecead0d2}</Project>
+      <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
+  <ImportGroup Label="ExtensionTargets">
+  </ImportGroup>
+</Project>

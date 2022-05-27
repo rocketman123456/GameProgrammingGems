@@ -1,0 +1,192 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Actions">
+      <UniqueIdentifier>{277ee3c1-74f0-4527-81e8-b0db5ce274e5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Goals">
+      <UniqueIdentifier>{e91f54ce-9d5f-4db7-aaec-5a4177a02e80}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="States">
+      <UniqueIdentifier>{d4e45cf6-37cf-4a16-a9b1-3de0cde909d0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="AStar">
+      <UniqueIdentifier>{f5bc81d7-bd17-4fc1-8a0c-f0a58a4b7245}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Lua Scripts">
+      <UniqueIdentifier>{b491dc5d-401b-4b01-9d54-57581259173d}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Agent.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="AgentFactory.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="glfont2.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="LuaWrapper.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Plan.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="World.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Actions\Action.cpp">
+      <Filter>Actions</Filter>
+    </ClCompile>
+    <ClCompile Include="Actions\ActionDictionary.cpp">
+      <Filter>Actions</Filter>
+    </ClCompile>
+    <ClCompile Include="Actions\Attack.cpp">
+      <Filter>Actions</Filter>
+    </ClCompile>
+    <ClCompile Include="Actions\ContextPrecondition.cpp">
+      <Filter>Actions</Filter>
+    </ClCompile>
+    <ClCompile Include="Actions\GetItemAction.cpp">
+      <Filter>Actions</Filter>
+    </ClCompile>
+    <ClCompile Include="Actions\GoTo.cpp">
+      <Filter>Actions</Filter>
+    </ClCompile>
+    <ClCompile Include="Actions\Patrol.cpp">
+      <Filter>Actions</Filter>
+    </ClCompile>
+    <ClCompile Include="Actions\ReturnItemAction.cpp">
+      <Filter>Actions</Filter>
+    </ClCompile>
+    <ClCompile Include="Goals\GetItemGoal.cpp">
+      <Filter>Goals</Filter>
+    </ClCompile>
+    <ClCompile Include="Goals\Goal.cpp">
+      <Filter>Goals</Filter>
+    </ClCompile>
+    <ClCompile Include="Goals\PatrolGoal.cpp">
+      <Filter>Goals</Filter>
+    </ClCompile>
+    <ClCompile Include="WorldProperty.cpp">
+      <Filter>States</Filter>
+    </ClCompile>
+    <ClCompile Include="WorldState.cpp">
+      <Filter>States</Filter>
+    </ClCompile>
+    <ClCompile Include="AStar\AStar.cpp">
+      <Filter>AStar</Filter>
+    </ClCompile>
+    <ClCompile Include="AStar\Node.cpp">
+      <Filter>AStar</Filter>
+    </ClCompile>
+    <ClCompile Include="AStar\PriorityQueue.cpp">
+      <Filter>AStar</Filter>
+    </ClCompile>
+    <ClCompile Include="AStar\PriorityQueueStorage.cpp">
+      <Filter>AStar</Filter>
+    </ClCompile>
+    <ClCompile Include="AStar\Storage.cpp">
+      <Filter>AStar</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Agent.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="AgentFactory.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="glfont2.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="glinc.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="global.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="LuaWrapper.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Plan.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="WorkingMemoryFact.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="World.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Actions\Action.h">
+      <Filter>Actions</Filter>
+    </ClInclude>
+    <ClInclude Include="Actions\ActionDictionary.h">
+      <Filter>Actions</Filter>
+    </ClInclude>
+    <ClInclude Include="Actions\Attack.h">
+      <Filter>Actions</Filter>
+    </ClInclude>
+    <ClInclude Include="Actions\ContextPrecondition.h">
+      <Filter>Actions</Filter>
+    </ClInclude>
+    <ClInclude Include="Actions\GetItemAction.h">
+      <Filter>Actions</Filter>
+    </ClInclude>
+    <ClInclude Include="Actions\GoTo.h">
+      <Filter>Actions</Filter>
+    </ClInclude>
+    <ClInclude Include="Actions\Patrol.h">
+      <Filter>Actions</Filter>
+    </ClInclude>
+    <ClInclude Include="Actions\ReturnItemAction.h">
+      <Filter>Actions</Filter>
+    </ClInclude>
+    <ClInclude Include="Goals\GetItemGoal.h">
+      <Filter>Goals</Filter>
+    </ClInclude>
+    <ClInclude Include="Goals\goal.h">
+      <Filter>Goals</Filter>
+    </ClInclude>
+    <ClInclude Include="Goals\PatrolGoal.h">
+      <Filter>Goals</Filter>
+    </ClInclude>
+    <ClInclude Include="WorldProperty.h">
+      <Filter>States</Filter>
+    </ClInclude>
+    <ClInclude Include="WorldState.h">
+      <Filter>States</Filter>
+    </ClInclude>
+    <ClInclude Include="AStar\AStar.h">
+      <Filter>AStar</Filter>
+    </ClInclude>
+    <ClInclude Include="AStar\Node.h">
+      <Filter>AStar</Filter>
+    </ClInclude>
+    <ClInclude Include="AStar\PriorityQueue.h">
+      <Filter>AStar</Filter>
+    </ClInclude>
+    <ClInclude Include="AStar\PriorityQueueStorage.h">
+      <Filter>AStar</Filter>
+    </ClInclude>
+    <ClInclude Include="AStar\Storage.h">
+      <Filter>AStar</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Lua Scripts\main.lua">
+      <Filter>Lua Scripts</Filter>
+    </None>
+    <None Include="Lua Scripts\patrol.lua">
+      <Filter>Lua Scripts</Filter>
+    </None>
+  </ItemGroup>
+</Project>

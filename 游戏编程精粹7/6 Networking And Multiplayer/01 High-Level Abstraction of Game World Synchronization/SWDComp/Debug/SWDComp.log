@@ -1,0 +1,27 @@
+﻿  D:\Program\游戏编程精粹1-7\《游戏编程精粹7》光盘源代码\6 Networking And Multiplayer\01 High-Level Abstraction of Game World Synchronization\SWDComp\SWD.g ANTLR Processing
+  ANTLR Parser Generator   Version 2.7.4   1989-2004 jGuru.com
+  stdafx.cpp
+  SWDComp.cpp
+d:\program\游戏编程精粹1-7\《游戏编程精粹7》光盘源代码\6 networking and multiplayer\01 high-level abstraction of game world synchronization\antlrlib\antlr\charscanner.hpp(537): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _stricmp. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(568): note: see declaration of 'stricmp'
+d:\program\游戏编程精粹1-7\《游戏编程精粹7》光盘源代码\6 networking and multiplayer\01 high-level abstraction of game world synchronization\swdcomp\swdcomp.cpp(26): warning C4996: '_splitpath': This function or variable may be unsafe. Consider using _splitpath_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdlib.h(1096): note: see declaration of '_splitpath'
+d:\program\游戏编程精粹1-7\《游戏编程精粹7》光盘源代码\6 networking and multiplayer\01 high-level abstraction of game world synchronization\swdcomp\swdcomp.cpp(27): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(90): note: see declaration of 'strcat'
+d:\program\游戏编程精粹1-7\《游戏编程精粹7》光盘源代码\6 networking and multiplayer\01 high-level abstraction of game world synchronization\swdcomp\swdcomp.cpp(28): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+d:\program\游戏编程精粹1-7\《游戏编程精粹7》光盘源代码\6 networking and multiplayer\01 high-level abstraction of game world synchronization\swdcomp\swdcomp.cpp(30): warning C4996: '_makepath': This function or variable may be unsafe. Consider using _makepath_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdlib.h(1093): note: see declaration of '_makepath'
+d:\program\游戏编程精粹1-7\《游戏编程精粹7》光盘源代码\6 networking and multiplayer\01 high-level abstraction of game world synchronization\swdcomp\swdcomp.cpp(45): warning C4996: '_splitpath': This function or variable may be unsafe. Consider using _splitpath_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdlib.h(1096): note: see declaration of '_splitpath'
+  Specification.cpp
+d:\program\游戏编程精粹1-7\《游戏编程精粹7》光盘源代码\6 networking and multiplayer\01 high-level abstraction of game world synchronization\swdcomp\specification.cpp(29): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+  IncludeGeneratedFiles.cpp
+d:\program\游戏编程精粹1-7\《游戏编程精粹7》光盘源代码\6 networking and multiplayer\01 high-level abstraction of game world synchronization\antlrlib\antlr\charscanner.hpp(537): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _stricmp. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(568): note: see declaration of 'stricmp'
+  Backend.cpp
+  Generating Code...
+Backend.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/SAFESEH' specification
+  SWDComp.vcxproj -> D:\Program\游戏编程精粹1-7\《游戏编程精粹7》光盘源代码\6 Networking And Multiplayer\01 High-Level Abstraction of Game World Synchronization\SWDComp\../out\SWDComp.exe
+  SWDComp.vcxproj -> ../out\SWDComp.pdb (Full PDB)

@@ -1,0 +1,47 @@
+﻿  Action.cpp
+d:\program\游戏编程精粹1-7\《游戏编程精粹7》光盘源代码\3 ai\06 goal-oriented plan merging\actions\action.cpp(15): error C2039: 'back_inserter': is not a member of 'std'
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\iostream(12): note: see declaration of 'std'
+d:\program\游戏编程精粹1-7\《游戏编程精粹7》光盘源代码\3 ai\06 goal-oriented plan merging\actions\action.cpp(15): error C3861: 'back_inserter': identifier not found
+d:\program\游戏编程精粹1-7\《游戏编程精粹7》光盘源代码\3 ai\06 goal-oriented plan merging\actions\action.cpp(16): error C2039: 'back_inserter': is not a member of 'std'
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\iostream(12): note: see declaration of 'std'
+d:\program\游戏编程精粹1-7\《游戏编程精粹7》光盘源代码\3 ai\06 goal-oriented plan merging\actions\action.cpp(16): error C3861: 'back_inserter': identifier not found
+d:\program\游戏编程精粹1-7\《游戏编程精粹7》光盘源代码\3 ai\06 goal-oriented plan merging\actions\action.cpp(17): error C2039: 'back_inserter': is not a member of 'std'
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\iostream(12): note: see declaration of 'std'
+d:\program\游戏编程精粹1-7\《游戏编程精粹7》光盘源代码\3 ai\06 goal-oriented plan merging\actions\action.cpp(17): error C3861: 'back_inserter': identifier not found
+  ActionDictionary.cpp
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\hash_map(17): error C2338: <hash_map> is deprecated and will be REMOVED. Please use <unordered_map>. You can define _SILENCE_STDEXT_HASH_DEPRECATION_WARNINGS to acknowledge that you have received this warning.
+  Attack.cpp
+  ContextPrecondition.cpp
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\hash_map(17): error C2338: <hash_map> is deprecated and will be REMOVED. Please use <unordered_map>. You can define _SILENCE_STDEXT_HASH_DEPRECATION_WARNINGS to acknowledge that you have received this warning.
+d:\program\游戏编程精粹1-7\《游戏编程精粹7》光盘源代码\3 ai\06 goal-oriented plan merging\workingmemoryfact.h(13): fatal error C1083: Cannot open include file: 'd3dx9math.h': No such file or directory
+  GetItemAction.cpp
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\hash_map(17): error C2338: <hash_map> is deprecated and will be REMOVED. Please use <unordered_map>. You can define _SILENCE_STDEXT_HASH_DEPRECATION_WARNINGS to acknowledge that you have received this warning.
+d:\program\游戏编程精粹1-7\《游戏编程精粹7》光盘源代码\3 ai\06 goal-oriented plan merging\workingmemoryfact.h(13): fatal error C1083: Cannot open include file: 'd3dx9math.h': No such file or directory
+  GoTo.cpp
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\hash_map(17): error C2338: <hash_map> is deprecated and will be REMOVED. Please use <unordered_map>. You can define _SILENCE_STDEXT_HASH_DEPRECATION_WARNINGS to acknowledge that you have received this warning.
+d:\program\游戏编程精粹1-7\《游戏编程精粹7》光盘源代码\3 ai\06 goal-oriented plan merging\workingmemoryfact.h(13): fatal error C1083: Cannot open include file: 'd3dx9math.h': No such file or directory
+  Patrol.cpp
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\hash_map(17): error C2338: <hash_map> is deprecated and will be REMOVED. Please use <unordered_map>. You can define _SILENCE_STDEXT_HASH_DEPRECATION_WARNINGS to acknowledge that you have received this warning.
+d:\program\游戏编程精粹1-7\《游戏编程精粹7》光盘源代码\3 ai\06 goal-oriented plan merging\workingmemoryfact.h(13): fatal error C1083: Cannot open include file: 'd3dx9math.h': No such file or directory
+  ReturnItemAction.cpp
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\hash_map(17): error C2338: <hash_map> is deprecated and will be REMOVED. Please use <unordered_map>. You can define _SILENCE_STDEXT_HASH_DEPRECATION_WARNINGS to acknowledge that you have received this warning.
+d:\program\游戏编程精粹1-7\《游戏编程精粹7》光盘源代码\3 ai\06 goal-oriented plan merging\workingmemoryfact.h(13): fatal error C1083: Cannot open include file: 'd3dx9math.h': No such file or directory
+  Agent.cpp
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\hash_map(17): error C2338: <hash_map> is deprecated and will be REMOVED. Please use <unordered_map>. You can define _SILENCE_STDEXT_HASH_DEPRECATION_WARNINGS to acknowledge that you have received this warning.
+d:\program\游戏编程精粹1-7\《游戏编程精粹7》光盘源代码\3 ai\06 goal-oriented plan merging\workingmemoryfact.h(13): fatal error C1083: Cannot open include file: 'd3dx9math.h': No such file or directory
+  AgentFactory.cpp
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\hash_map(17): error C2338: <hash_map> is deprecated and will be REMOVED. Please use <unordered_map>. You can define _SILENCE_STDEXT_HASH_DEPRECATION_WARNINGS to acknowledge that you have received this warning.
+d:\program\游戏编程精粹1-7\《游戏编程精粹7》光盘源代码\3 ai\06 goal-oriented plan merging\workingmemoryfact.h(13): fatal error C1083: Cannot open include file: 'd3dx9math.h': No such file or directory
+  AStar.cpp
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\hash_map(17): error C2338: <hash_map> is deprecated and will be REMOVED. Please use <unordered_map>. You can define _SILENCE_STDEXT_HASH_DEPRECATION_WARNINGS to acknowledge that you have received this warning.
+d:\program\游戏编程精粹1-7\《游戏编程精粹7》光盘源代码\3 ai\06 goal-oriented plan merging\workingmemoryfact.h(13): fatal error C1083: Cannot open include file: 'd3dx9math.h': No such file or directory
+  Node.cpp
+  LuaWrapper.cpp
+d:\program\游戏编程精粹1-7\《游戏编程精粹7》光盘源代码\3 ai\06 goal-oriented plan merging\luawrapper.cpp(14): fatal error C1083: Cannot open include file: 'd3dx9math.h': No such file or directory
+  main.cpp
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\hash_map(17): error C2338: <hash_map> is deprecated and will be REMOVED. Please use <unordered_map>. You can define _SILENCE_STDEXT_HASH_DEPRECATION_WARNINGS to acknowledge that you have received this warning.
+d:\program\游戏编程精粹1-7\《游戏编程精粹7》光盘源代码\3 ai\06 goal-oriented plan merging\workingmemoryfact.h(13): fatal error C1083: Cannot open include file: 'd3dx9math.h': No such file or directory
+  World.cpp
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\hash_map(17): error C2338: <hash_map> is deprecated and will be REMOVED. Please use <unordered_map>. You can define _SILENCE_STDEXT_HASH_DEPRECATION_WARNINGS to acknowledge that you have received this warning.
+d:\program\游戏编程精粹1-7\《游戏编程精粹7》光盘源代码\3 ai\06 goal-oriented plan merging\workingmemoryfact.h(13): fatal error C1083: Cannot open include file: 'd3dx9math.h': No such file or directory
+  Generating Code...

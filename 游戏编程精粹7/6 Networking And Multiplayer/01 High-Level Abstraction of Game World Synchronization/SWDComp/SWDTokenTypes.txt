@@ -1,0 +1,48 @@
+// $ANTLR 2.7.4: SWD.g -> SWDTokenTypes.txt$
+SWD    // output token vocab name
+LITERAL_config="config"=4
+LCURLY("{")=5
+RCURLY("}")=6
+IDENT("an identifer")=7
+ASSIGN("=")=8
+INT("an integer value")=9
+SEMI(";")=10
+LITERAL_synch_class="synch_class"=11
+LITERAL_conditional="conditional"=12
+LITERAL_static="static"=13
+QUESTION("?")=14
+LPAREN("(")=15
+RPAREN(")")=16
+LBRACK("[")=17
+RBRACK("]")=18
+OR("|")=19
+XOR("^")=20
+AND("&")=21
+COLON(":")=22
+COMMA(",")=23
+DOT(".")=24
+NOT("!")=25
+LT_("<")=26
+LSHIFT("<<")=27
+GT(">")=28
+RSHIFT(">>")=29
+DIV("/")=30
+PLUS("+")=31
+MINUS("-")=32
+TILDE("~")=33
+STAR("*")=34
+MOD("%")=35
+SCOPEOP("::")=36
+WS_("white space")=37
+PREPROC_DIRECTIVE("a preprocessor directive")=38
+SL_COMMENT("a comment")=39
+ML_COMMENT("a comment")=40
+CHAR_LITERAL("a character literal")=41
+STRING_LITERAL("a string literal")=42
+ESC("an escape sequence")=43
+VOCAB("an escaped character value")=44
+DIGIT("a digit")=45
+OCTDIGIT("an octal digit")=46
+HEXDIGIT("a hexadecimal digit")=47
+HEX("a hexadecimal value value")=48
+FLOAT("an floating point value")=49
