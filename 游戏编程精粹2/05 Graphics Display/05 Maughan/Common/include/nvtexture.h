@@ -604,23 +604,171 @@ public:
 		}
 
 		NV2DTextureLocker SourceLocker(pSource);
-		äª ÿÖ‹5È  h`­ hÄ& ÿÖh ¬ h¬& ÿÖÿ5ˆ¡ h”& ÿÖè%Ûÿÿ¡ìª 8u+¾   VhÀ° ÿ5\­ ÿ<  ;Ã‰Eü„üÿÿ;ÆrFéüÿÿ¡\­ ¿À° ‹×+ĞŠˆ@:Ëuö¡ˆ¡ ‹ĞŠ@:Ëuù+ÂOŠOG:Ëuø‹ÈÁé‹òó¥‹Èƒáó¤jY3À½xÿÿÿó«@‰E¤f‰E¨EàP…xÿÿÿPÿ5Ä°Ç…xÿÿÿD   Sj SSShÀ° Sÿ@  …À„†ûÿÿ9”¡ uSÿ5äª ÿP! ‹EàjÿP£,­ ÿô  EüPÿuàÿD  ÿuäÿ  èËÿÿ}üÑ ¿Êu‰]üëFè®Ïÿÿë?9À°u7Sÿ5äª ÿP! h  Wh   ÿ5\  ÿh! h0  WWÿ5äª ÿ`! ¡¨¥ …ÀxL¾   @…Æu9ÿ5¬¥ ‹ÈÁéƒáh°¥ Q‹ÈÑéƒáQƒàPè:Ûÿÿ…À¡¨¥ uÆ£¨¥ …Æt
-h   èHÚÿÿ9`  th@­ ÿè  ‰`  ÿuüÿä  Ìé
-úÿÿU‹ì‹Eë€ù;u„Ét@Š€ù
-uô€8 	@Š„Éuã3À]Â U‹ì‹Më„ÀtAŠ<
-uõAQè»ÿÿÿ]Â 3ÀëøU‹ìS‹]V‹uWÆ ëVèÇÿÿÿ‹ğ…öt,€>[uïFë
-„Ét€ù ~
-@Š€ù]uïëpÿ+ÆH‹øtÙ9}w3ÀëWFPSÿ„! SÆ ÿ¨! ƒÄ‹Æ_^[]Â U‹ì‹E€8[u@ÿuÿuPèxÿÿÿ]Â U‹ìƒìdjdEœPÿuè`ÿÿÿ…Àt?S‹UMœŠ:u„ÛtŠZ:YuBBAA„Ûuæ3ÉëÉƒÙÿ…ÉtjdMœQPè’ÿÿÿ…ÀuÃ[ÉÂ U‹ìƒìdjdEœPÿuèuÿÿÿ…Àt?S‹UMœŠ:u„ÛtŠZ:YuBBAA„Ûuæ3ÉëÉƒÙÿ…ÉtjdMœQPè7ÿÿÿ…ÀuÃ[ÉÂ U‹ì‹EP‹Ğèşÿÿ…Àt€8[uÿuRè…ÿÿÿ…Àuâ]Â U‹ìSW3Û3ÿƒ}s3Àé¬   ‹EV‹uŠ„É„˜   €ù
-„   €ù;„†   €ù"t€ù=t€ù,t€ù ëGFŠ„ÉuĞë3ÛCFŠ„Ét\;}wW3Ò…Ût€ù"t€ù
-u3Ûë€ù
-t$€ù,t€ù;t€ù=t€ù ~ˆB;Us!FŠ„ÉuÅ…ÿuG9}‡jÿÿÿu
-…ÒvÆ ë3À^_[]Â U‹ì3Òƒ}s3Àë(‹EV‹uë€ù
-t€ùt	ˆB;UsFŠ„ÉuæÆ ^]Â 3Àë÷U‹ìÿuÿuèşÿÿ…Àt	ÿuPè¶şÿÿ]Â U‹ìƒì4VÿuÿuèÏÿÿÿëSj2EÌPj Vè¸şÿÿ…Àt8EÌPÿ¨! Y‹MEÌŠ:u„ÒtŠP:Qu@@AA„Òuæ3ÀëÀƒØÿ…ÀtÿuVèKşÿÿ‹ğ…öu§‹Æ^ÉÂ ÿ%x! ÿ%t! ÿ%|! U‹ì3À9Eu¸W €ë%‹UV‹uŠ„Ét	ˆ
-BFÿMuñ9E^uJ¸z €Æ ]Â U‹ìV‹u3À;ğ‹Ît‹U8tBNuø;ğu¸W €ë‹U;Ğt+Î‰
-^]Â U‹ìV‹uh  ÿÖY3É;ÁuQjÿu(è{  3Àëi‹Uƒˆˆ   ÿƒˆ„   ÿ‰P‹U‰P‹U‰P‹U‰P‹U‰P‹U ‰P‹U$‰P ‹U(‰HH‰HD‰HL¹ÿÿ  ‰p‰fÇ€²    ‰ˆ    ‰ˆ¨   ‰ˆ¤   ^]ÃU‹ìƒì$V‹uj$EÜPÿuÿVƒÄƒø$u}ÜMSCFuf}ôt·EôPjÿ6èÎ  3ÀëH‹E‹Mä‰f‹Möf‰Hf‹Møf‰Hf‹Müf‰Hf‹Mşf‰H
-·Mú‹ÑÁêƒâ‰P‹Ñƒâƒá‰P‰H3À@^ÉÃU‹ìSV‹u†¼  ·  ‰H¸  ‰H¹  ‰H‹N8‰Hf‹NpWf‰Hf‹NrP3ÛS¾ä  f‰H ÿV$ƒøÿYYt79^(t@‰‹F8‰G‹FL‰Gf‹†    f‰Gf‹Fpf‰G·FrW‰GÿV(ƒøÿYuSjÿ6èê  3Àë3À@_^[]Â U‹ìSV‹uWÿ¶¨   ¾ä  ÿvHÿ¶„   ÿVƒÄ9†¨   …õ   ‹FH·@‹]Ã;†˜   ‡İ   ‹FH·@P‹F<ÃPÿ¶„   ÿV‹NH·IƒÄ;È…´   ‹FH3É9t1·@QP‹F<ÃPèm  P‹†¨   ƒèP‹FHƒÀPèV  ‹NH;u|3É‹FHfX;Ùw‹FHf9Ht3Òë3ÒB9N(tUÇ   ‹F8‰Gf‹†¨   f- f‰Gt‹FHƒÀ‰Gë‰O‹F<Ã‰G‹FHf‹@Wf‰G‰Wf‰_ÿV(ƒøÿYuj jë	3À@ëj jÿ6è¬  3À_^[]Â U‹ìSV‹uWjj ÿ¶ˆ   ÿV‹]‹}SWÿ¶ˆ   ‰EÿVƒÄ…À~=ŠLÿ‹ÇÆDÿ xŠ@„Òuù+ÇP;Ó|„Éu‹Mj DPÿ¶ˆ   ÿVƒÄƒøÿuj jÿ6è*  3Àë3À@_^[]Â U‹ìSV‹ujj ÿ¶ˆ   ÿV‹ØƒÄƒûÿuj jÿ6èò  3Àëxf‹†¬   Wf‰†Ş  f‹Fp¾¼  f‰†Ú  ‹F8Wj‰‰†Ì  ÿV$ƒøÿYYuj jÿ6è«  3Àë0·†Ş  f…Àf‰†¬   t‹?;ûtj Wÿ¶ˆ   ÿVƒÄƒøÿtÄ3À@_^[]Â U‹ìV‹u¶†²   Wƒà3ÿ+ÇtBHt-Ht HtƒètBWjÿ6è@  3Àë7ÿv4èÜ  ëÿv4èÑÿÿëÿv4èÑÿÿ…ÀYtWjëÏÿv<ÿVÿv@ÿVYY3À@_^]Â U‹ìƒìSV‹u·²   ‹ÁWƒà3ÿ+Ç–”   Ç €  „   HtiHt<Htƒè„v  jëoWWWW3ÀWÁé@WƒáÓà˜   SW‰EğWEğPRè  ƒÄ,ë=‹F WWWWWW˜   SW‰EüWEøÁéPƒáR‰MøèJĞÿÿëÑW˜   SWWRè8ĞÿÿƒÄ…ÀtjXWPéç   ˜   Ç €  ÿ3ÿV;ÇY‰F<uWjéÆ   ÿ¶”   ÿV;ÇY‰F@u	ÿv<ÿVYëŞ¶†²   ƒàHteHt3H…©   ÿvF4ÿvÿvÿvÿvPSÿvEğÿvP†”   PèH  ë*ÿvF4ÿvÿvÿvÿvPSÿvEøÿvP†”   PèÏÿÿƒÄ,ëF4PSÿv†”   ÿvPècÏÿÿƒÄ;Çt0ÿv<3Ûƒø•Ã\ÿVÿv@ÿVYYWSÿ6èV  fÇ†²    3Àë3À@_^[ÉÂ U‹ìV‹u¶†²   Wƒà3ÿ+ÇtBHt-Ht Htƒèt4Wjÿ6è  3Àë)ÿv4èŒ  ëÿv4èßÎÿÿëÿv4èÕÎÿÿ…ÀYtWjëÏ3À@_^]Â U‹ìSVW‹}¶‡²   ƒà3Û+Ã„¦   HtmHtEHtSjéÌ   ‹u·‰EEP‹GHÿw@·@Pÿw<ÿw4èÆ  ƒÄ…À…›   f‹Ef‰éŠ   ‹u·‰EEP‹GHÿw@·@Pÿw<ÿw4è7ÎÿÿëÄ‹‡”   ‰EEP‹GHÿw@·@Pÿw<ÿw4èÎÿÿƒÄ…Àu@‹Ef‹Mf‰ë/‹GH·@·È;”   w"‹Mf‰‹w<‹@·È‹ÁÁéó¥‹Èƒáó¤3À@ëSjÿ7èÛ	  3À_^[]Â U‹ìV‹uW‹}EPVWèì÷ÿÿ…À|ÿu‹E+ğVÇPè÷ÿÿ_^]Â U‹ìV‹ujFtPÿ¶ˆ   ÿVƒÄƒøuVh   †´   PèÎúÿÿ…Àt3À@ëj jÿ6è]	  3À^]Â U‹ìV‹uWf‹}f;¾²   u3À@ë+VèÆûÿÿ…ÀuPjÿ6è(	  3ÀëVf‰¾²   èüÿÿ÷ØÀ÷Ø_^]Â U‹ìƒì$S‹]VWƒ¹  P¾  V»º  WèÜöÿÿÿuVWè
-ÿÿÿ¿€  W¾ €  ƒº  VPÿSƒÄƒøÿ‰ƒˆ   „9  Wƒº  VPÿSƒÄƒøÿ‰ƒ„   „  j$EÜPÿ³ˆ   ÿSƒÄƒø$tj éÎ   }ÜMSCFuğf}ôt·EôPjéä  f‹Ef=ÿÿtf‹Mf;Müuf;Eşt	j j
-éÁ  j	{PYuÜó¥3ÿöCnf‰}ÆE
- ÆE tjEPÿ³ˆ   ÿSƒÄƒøuW·E9ƒ    t)‹CL;ÇtPÿSY‰{L·E;Ç‰ƒ    vPÿS;ÇY‰CLtp‹ƒ    ;Çv PÿsLÿ³ˆ   ÿSƒÄ9ƒ    tWjé,  ¶E
-ƒÀ9{DuP‰ƒ¤   ÿS;ÇY‰CDu
-ë&;ƒ¤   u.¶EƒÀ9{HuP‰ƒ¨   ÿS;ÇY‰CHuWjéŞ   ;ƒ¨   tWj	éÎ   öCn¾   t-SVƒµ  Pè‰øÿÿ…À„´   SVƒ¶  Pèsøÿÿ…Àué   Æƒµ   Æƒ¶   öCnt&SVƒ·  PèHøÿÿ…ÀtwSVƒ¸  Pè6øÿÿ…ÀuëcÆƒ·   Æƒ¸   jWÿ³ˆ   ÿSƒÄƒøÿ‰C,Wtÿs`ÿ³ˆ   ÿSƒÄƒøÿuWjëf‹ClSf‰ƒ¬   èöÿÿ÷ØÀ÷Øëj jÿ3èp  3À_^[ÉÂ U‹ìS‹]V‹u‹†¤   ¯ÃF,Wj Pÿ¶„   ¾ä  ‰   ÿVƒÄƒøÿ„¡   ÿ¶¤   ÿvDÿ¶„   ÿVƒÄ9†¤   …€   ‹FDj ÿ0ÿ¶„   ÿVƒÄƒøÿth‹FDf‹
+		NV2DTextureLocker DestLocker(pNormalMap);
+
+		for (DWORD Level = 0; Level < pSource->GetLevelCount(); Level++)
+		{
+			pNormalMap->GetLevelDesc(Level, &ddsdDescDest);
+
+			DWORD dwWidth = ddsdDescDest.Width;
+			DWORD dwHeight = ddsdDescDest.Height;
+
+			SourceLocker.Lock(Level);
+			DestLocker.Lock(Level);
+
+  			for(i=0; i < dwWidth; i++)
+			{
+				for(j = 0; j < dwHeight; j++)
+				{
+					float fRight, fLeft, fUp, fDown;
+
+					SourceLocker.GetMapLuminance(Level, i + 1, j, fRight);
+					SourceLocker.GetMapLuminance(Level, i - 1, j, fLeft);
+					SourceLocker.GetMapLuminance(Level, i, j - 1, fUp);
+					SourceLocker.GetMapLuminance(Level, i, j + 1, fDown);
+
+					D3DXVECTOR3 dfdi(2.f, 0.f, fRight - fLeft);
+					D3DXVECTOR3 dfdj(0.f, 2.f, fDown - fUp);
+
+					D3DXVec3Cross(&Normal, &dfdi, &dfdj);
+					D3DXVec3Normalize(&Normal, &Normal);
+
+					DestLocker.SetMapVector(Level, i, j, Normal);
+				}
+			}
+
+			SourceLocker.Unlock(Level);
+			DestLocker.Unlock(Level);
+		}
+
+		return pNormalMap;
+	}
+
+	static void FilterNormalMap(LPDIRECT3DDEVICE8 pD3DDev, LPDIRECT3DTEXTURE8 pNormalMap)
+	{
+		D3DSURFACE_DESC ddsdDescSource;
+		D3DXVECTOR3 Normal;
+		DWORD i, j;
+
+		NV2DTextureLocker SurfaceLocker(pNormalMap);
+
+		for (DWORD Level = 0; Level < pNormalMap->GetLevelCount() - 1; Level++)
+		{
+			SurfaceLocker.Lock(Level);
+			SurfaceLocker.Lock(Level + 1);
+
+			pNormalMap->GetLevelDesc(Level, &ddsdDescSource);
+	 		for(i=0; i < ddsdDescSource.Width; i++)
+			{
+				for(j = 0; j < ddsdDescSource.Height; j++)
+				{
+					D3DXVECTOR3 Vectors[4];
+					SurfaceLocker.GetMapVector(Level, i, j, Vectors[0]);
+					SurfaceLocker.GetMapVector(Level, i+1, j, Vectors[1]);
+					SurfaceLocker.GetMapVector(Level, i+1, j+1, Vectors[2]);
+					SurfaceLocker.GetMapVector(Level, i+1, j+1, Vectors[3]);
+
+					D3DXVECTOR3 Normal = Vectors[0] + Vectors[1] + Vectors[2] + Vectors[3];
+					D3DXVec3Normalize(&Normal, &Normal);
+
+					SurfaceLocker.SetMapVector(Level + 1, i / 2, j / 2, Normal);
+
+					j += 2;
+				}
+				i += 2;
+			}
+
+			SurfaceLocker.Unlock(Level);
+			SurfaceLocker.Unlock(Level + 1);
+		}
+	}
+
+	static LPDIRECT3DCUBETEXTURE8 CreateNormalizationCubeMap(LPDIRECT3DDEVICE8 pD3DDev, DWORD dwWidth, WORD dwMipmaps = 0, D3DPOOL Pool = D3DPOOL_MANAGED)
+	{
+		HRESULT hr;
+		LPDIRECT3DCUBETEXTURE8 pCubeTexture;
+
+		hr = D3DXCreateCubeTexture(pD3DDev, dwWidth, dwMipmaps, 0, D3DFMT_X8R8G8B8, Pool, &pCubeTexture);
+		if(FAILED(hr))
+		{
+			return NULL;
+		}
+
+		if (dwMipmaps == 0)
+			dwMipmaps = pCubeTexture->GetLevelCount();
+
+		for (DWORD dwLevel = 0; dwLevel < dwMipmaps; dwLevel++)
+		{
+			for (int i = 0; i < 6; i++)
+			{
+				D3DLOCKED_RECT Locked;
+				D3DXVECTOR3 Normal;
+				float w,h;
+				D3DSURFACE_DESC ddsdDesc;
+				
+				pCubeTexture->GetLevelDesc(dwLevel, &ddsdDesc);
+
+				pCubeTexture->LockRect((D3DCUBEMAP_FACES)i, dwLevel, &Locked, NULL, 0);
+
+				for (int y = 0; y < ddsdDesc.Height; y++)
+				{
+					h = (float)y / ((float)(ddsdDesc.Height - 1));
+					h *= 2.0f;
+					h -= 1.0f;
+
+					for (int x = 0; x < ddsdDesc.Width; x++)
+					{
+						w = (float)x / ((float)(ddsdDesc.Width - 1));
+						w *= 2.0f;
+						w -= 1.0f;
+
+						DWORD* pBits = (DWORD*)((BYTE*)Locked.pBits + (y * Locked.Pitch));
+						pBits += x;
+
+						switch((D3DCUBEMAP_FACES)i)
+						{
+							case D3DCUBEMAP_FACE_POSITIVE_X:
+								Normal = D3DXVECTOR3(1.0f, -h, -w);
+								break;
+							case D3DCUBEMAP_FACE_NEGATIVE_X:
+								Normal = D3DXVECTOR3(-1.0f, -h, w);
+								break;
+							case D3DCUBEMAP_FACE_POSITIVE_Y:
+								Normal = D3DXVECTOR3(w, 1.0f, h);
+								break;
+							case D3DCUBEMAP_FACE_NEGATIVE_Y:
+								Normal = D3DXVECTOR3(w, -1.0f, -h);
+								break;
+							case D3DCUBEMAP_FACE_POSITIVE_Z:
+								Normal = D3DXVECTOR3(w, -h, 1.0f);
+								break;
+							case D3DCUBEMAP_FACE_NEGATIVE_Z:
+								Normal = D3DXVECTOR3(-w, -h, -1.0f);
+								break;
+							default:
+								assert(0);
+								break;
+						}
+
+						D3DXVec3Normalize(&Normal, &Normal);
+
+						// Scale to be a color from 0 to 255 (127 is 0)
+						Normal += D3DXVECTOR3(1.0f, 1.0f, 1.0f);
+						Normal *= 127.0f;
+
+						// Store the color
+						*pBits = (DWORD)(((DWORD)Normal.x << 16) | ((DWORD)Normal.y << 8) | ((DWORD)Normal.z << 0));
+
+					}
+				}
+				pCubeTexture->UnlockRect((D3DCUBEMAP_FACES)i, 0);
+			}
+		}
+
+		return pCubeTexture;
+	}
+};
+
+}; //nv_objects
+
+#endif __NVTEXTURE_H

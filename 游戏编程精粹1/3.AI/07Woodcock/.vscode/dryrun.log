@@ -1,0 +1,12 @@
+make --dry-run --always-make --keep-going --print-directory
+make: Entering directory `/Users/developer/Program/BookCode/GameProgrammingGems/游戏编程精粹1/3.AI/07Woodcock'
+c++    -c -o CBoid.o CBoid.cpp
+c++    -c -o CBox.o CBox.cpp
+c++    -c -o CFlock.o CFlock.cpp
+c++    -c -o main.o main.cpp
+c++    -c -o mtxlib.o mtxlib.cpp
+c++    -c -o vector.o vector.cpp
+cc    -c -o myprintf.o myprintf.c
+cc *.o -o SimpleFlocking -lGL -lglut -lMesaGLU -L/usr/X11R6/lib -lX11 -lXi -lXmu
+make: Leaving directory `/Users/developer/Program/BookCode/GameProgrammingGems/游戏编程精粹1/3.AI/07Woodcock'
+ 

@@ -214,4 +214,653 @@ struct DIDCfgViewInfo
 //-----------------------------------------------------------------------------
 struct DidcvCustomViewInfo
 {
-    DWORD dwType;               // type of the opera0`?``àüşüflnlÿlÿlflnlÌÌœ  ``ş`ÿüüşlşlÚlşll<l~ÌúÌÙœ  ``~`~üfü~lfl~l~l`lll~ÌvÌaœ  ?ø?ø`?ü1Œ?ü1Œ?ü1Œ0€?ü><x8   `ş`6`üşüşlÖlşlÖlÖlşlÖLÖÌ×œÁ  00>0~0Ì~ş¶m¶m¶¶¶nÌ3cşÁü  ``ş`şüüşlşlÆlşÌşÌm¼m¸lÏşÇü  >0>020>ş ş66c6k6k6kff6Æá¼  0Û0Û0ÿ~ÿ~6ÿ¶ÿ¶c6ÿ¶6f>f0Æ?Şyœ  ``ÿ`ÿü ü~l~lfl~l~ll^ÌÚÌ¹œ;  ``~`~üüÿlÿlflÛl~l~lÌÌœq  ``ÿ`ÿü6ü6lÿlÿl l~l~lfÌ~Ìœ   000~ÿ~66 666U6W¶ÿæğŞŒ  ``ÿ`ÿüZüZlÿl½ll<l>l{ÌØÌÙœ  6`6``6ü>üllmlmllllÌÜ˜  l`l``lümülçll~lfl~lfÌ~Ì~œg   0ÿ0ÿ0şÿşÿ6Õ6İ6Õ6Õ6İfÕfÿFÿŞÀœ   000ÿşş~6Z6~6Z6~6ffFŞğœ   0ÿ0Á0İ~Á~İ6 66c66cffcÆa  øøøø `~`fş~şff~fgfÿÎñŒ  f0f0ÿ0ÿ~f~~6f6~6f6ÿ6ÿ6jfqf~Ş~Ü   `ş~şşmì9¸ş0şşÎ:`9üyüØl˜Ì9œ3  j0ÿ0ÿ0jşnş`66 666kfkffvŞbœ   0?030?ş ş6c66c6&cff6FsŞ`œ  60v0ã0Ûş6ş>6 6÷6÷636wf3fÿF3Şvœ   `}hül`şşlØfmümülllÌİœ›  0Z´Z´<x~üfÌÿşÿşÃ?ø?øxpp  `ş`øøø ÿş3oö008à   0÷°÷°µşsşı¶>6ó¶É¶66fsffxŞ`Ü   0ÿ040ÿ~µ~ÿ6 6~6 6ÿ¶ÿ¶.fmfÜŞœ  `şøøÿhfèÛh~úÎÿ† øø8xàp  000~~ÿ¶c66c66cff6ÆcA  60ÿ°60>ş ş6m6666fffÎpÌ  |ü|Ìü|0aş}¶ş<4;ş ?ø?øxpp  j0Ú0Ô0jş~şZ6~6Z6~6fÿfÿF>Æ[ŞØœ  ``~`ş`Øüşü4l~lşlìl~lll~llÌ~Ü`˜  00>0~0Ì0ÿ~[~606Û6>&ïf=fìFÜŞœ  j0ÿ0j0nş`ş6 66c6&cff6FæŞÃœ  0~00ÿ°ÿşf~ÿ666ÿ6ÿ6Ã&ûfëFÿŞÆœ  0ÿ0ø0Zşÿşÿ6z6Ù6ÿ66kffkFŞcœ  0Z00~~ÿ¶ÿ¶k6Õ¶<6fæFmŞÜœ  0006~ÿşÿ¶m66m6fffF~Şqœ  000~m~~6m66h6}6nfwfoÆöŞÎœ  00ÿ°ÿşc~{6k66 6~6ff~fgFÿŞøœ  0 0üşü6´vüî´Œ´Düÿ UdUjUjUä«d<  60ÿ0ÿ06şş[66[666ÿ&ÛfÿFÃŞÇœ  ~00ÿşÿşZ6~6Z6~ffÆŞÿœ  ffff   0ÿ00ÿ0mşşm6666fÿfÛFÛŞ œ  000şmş~6m66m66m66Ê¦ÙnïL   0°j0~j~6m66m66l6¶íæ¿Î¡Œ  3ïŞÄ¾?ôğçÌfÜgöfæ ?ü?ü<<08  0ÿ°ÿ°U~w~66¶66¶66ÿ¶ÿ¦6fûN1Œ  60ÿ°ÿ°6~w~U6w6l6ÿ6ÿ6l6flFŞ`œ    üü0`À       | 8    üü0p`Œ   < 8    üü0`Ïìì  ìì  < 8    üü0lßŒŒŒŒ¬ì0ì`< 8    üü0cÃŒì8l0 < 8    üü2fÌÌ?ì?ì  < 8     ü?üclFlÌÌ1Œc8x 0    üü4gŒ  ÌÌ>8 | x    øø3cËO˜Ø~>1ğ!à    üü0lÌÌÌlìÌ < 8    üü0aŒÙŒÌìlìì < 8    üü3cßìììì < 8    üü0Ì_ÌÌÌü8 şü     ü?ücl[lÌÌŒ3ìl8x p    üü0fÇììl6ìÌŒ< 8   ü?üpàÍŒ7,3,7¬=¬0,?ì?ì      üü0ìßìLL?ì?ì<8    üü3{lÛl?ü?üÌl3,#<8    üü<oìßì?ü?ülìì < 8    üü3gÍŒ8ì7l ÌÌÌü 8   ş?ş0cfßö?æ3f?æ3f?æ3f3n3l    üü3ìÌÌ;l?üLÌÌlü 8  `ş~şşÆ6âö<Ö ÖşÖ0ö>ÌÀÂ<ş|   ş?ş0æÀÆÆÆ ?æ2f?æ2n?ì   üü4~ìÖì,ìÌì>,l>lv<8   üü6lüÆlŒì?ü0<ìlì < 8   şş0~öÚ¶¾öö¶fö    şş4~öÖ–ööö>–>ööv    8à€     üü    ÀÀÀÌ8ÌxØØğàÀÀÀÆÆş|    ÀÀÀÄ~Ü~ğÀÀÀÀÆşÆfş|  ¶a¶clcla¶y¶xÀcşcşcNc6{N{şcş  ?`?`3`?d3n?x `ààfo~o<| ßşÇş    üü` ` ` ` ` ` ` ` ` ` üü    üüc cğgğn0lp`àa°gn` üü    üüa€m€oğğ}°mğm˜oøgğ` üü    üüa€oøoøm˜m˜m˜m¸m°a€` üü    üü` oğoğa€a€a€a€øø` üü    üüa€oøoø` gàgàf`fln|l8üü  üü` `xgàf gügüf`f`l`l`` şş    üü` oøoø`Àgøgø`Àoüoü` üü    üüf gøoøyxcXfØm˜cf8`0üü  üü` oøoøm˜oøm˜oøoøa€a€a€şş    üü` oøoøa€oøoøa°oøoø` üü    üüc f0oøoøc`oøoøf`n`l`üü  üü` d``høvhhfhgh~jfÎ` üü    üüa€øøm°¸{ìcàgpn8lüü    üük0k0oüoüc000k|{|` üü    üüa€m˜oøa€oøa€oğa€ø` üü    üüc`||c`oxoxc`||c`şş  üüf oø{XfØm˜c8` oğl0oğl0üü    üücÀnp}ÜxoXmXoXmXo8m0üü  ÿüÿüÄ`ß`ÄüßüÕlßlÕlßlÄîßÎÄ€ÿşÿş  üü`ÀgøfØgø`Àü` gøfØfØc0nş    üüi°mücü{°møa°mø}°yüa€şş    üümXox` oğm°oğm°øøa€üü  üüa€oøm˜üül0oğl0oğf`l0şş  üüa€üc0~üf0gğ` oxoxmXüü  üüa€gà~|{Ü` oxmXoxf0o8ihüü  üül`|rĞoğl0oğl0oğf`ül`üü  üüa€üa€oømXoøf0gğf0gğlşş  üüf0üfÀoü|ÀølÀoüloxlşş  üükXoxkXoxfÀoø|ÀølÀoølÀşş    üü0 0 0 0 0 0 0 0 0 ?ş?ş        üüf`f`f`f`fll|x8` ` üü    ?ü?ü0 6301à0À1à30640 ?ü?ü  üü` f gøoøhÀüüaÀc`f8lşş    üüaÀc`n8}Üxgğf0gğgğ` üü    üül0oğl0oğc üüf`cÀnpüü  üü`Àoüloül oün¬oüv¬f¬` üü  üü` c0oüc0a€üc oøcø` şş    üü` gğf0gğ` o|mlmlo|` üü  €€€€€€şş€€€€€€€    ğğ000ÿ°ÿ°00066   ğ?ø?    ÿüÿü         00000ÿşÿş00000000  ˜˜˜˜˜ÿşÿş˜˜˜1˜1˜a˜@   ğğ006>qœ€üü€€€€   ``?`<```ÿşÿş````0```@`    øø1€a€A€€şş€€€€€  €€üü€°00ÿşÿş00000`0  €ˆˆ	?ü?ü€€şş€€€€  €€şş€°°0ÿşÿş00ğğ0  06Ø6Ø6Ø6Øÿşÿş6Ø6Ø6Ø6Ø6Ø6Ø6Ø0    ŒŒŒŒŒŒüüa€a€a€a€aşaş  ÀÈÜ8ø{à[ÀÌüx€ÿşÿş€€€  0À0À0À3øûøøØ0Ø6Ş6Ş51˜336x40  ` aşaşa€a€a€a€üüŒŒŒÿŒÿŒ    ?ø?ø33?ø3?ø?øÀÿşÿş À À À  €üü  00x2Ì  €ÿşÿş€€€   üü ?ø?ø0?ø0?ø ÿşÿş    0`3ü3ü0ÌùÌû¼386?ş?ş6Ö6Ö6Ö=ş=¬  0`?ü?ü1Œ?ü?ü1Œ?ü?ü€şş€€  €üü€üü€1€€ÿüÿü`8p  €€şş€?ü?ü2L7ì1Œ7ì7ì1Œ1¼1˜  3;¸°?ü?ü1Œ?ü1Œ?ü?ü€ÿşÿş€€  33˜˜3?~3~?3ÿ˜ÿ˜jq˜˜  0Ø7ü7ü0ÀÿüşÌ7ü6Ì7ü6Ì?ş?ş31808   cØÛôğ8kÔø>ÀÚÖÛÖ€ÿşÿş€€€       `0       ``````~~~~```````     ÿşÿş  @`0       À ÀüÀüÀÌàÌğÌØÌÌÌÄüÀüÀÌÀÀÀ À À     üü  ?ø?ø000?ø?ø0    øø  ÿşÿş À`0     üü ?ø?ø00?ø?ø0 0 ` ` À    üü øø`˜a˜a˜˜``øø   üü øø`dXfØc˜fØlXøø`  €€şş€şşm¶ofgÆ}ö{¶cşş  00000ÿ¸ÿ¼ 4620000p0   000l0l08<c462l0l000 0  €ü€ğ0°°üü`gìflgì``     ü ü Ì Ì Ì Ì Ì Ì Ì Ü Ø À À À    ğğ000°°000ğà      øøxp  ÿşÿş     ~üxü`Ì`Ì`Ì`Ì`ÌfÌnÌ|ÜpØ À À À    ~ü~üÌÌÌÌÌÌÌÜşØğÀ À À   x?ø? 0 ?ş?ş0 7ø666p& fGüÃø   ~x~ffffffffffff~fv~l`0```   ~üxü`Ì`Ì~Ì~Ì`Ì`Ì`ÌfÌ|üpØ À À   ğğ0``Àÿü?ü0 7ğ606p6`6güÃü    ~ü~ü6Ì6ÌvÌîÌÌÌ~Ì~ÌfÜfØ~À~ÀfÀ    ||clcllclll`lfln|{xq` `   ~~fffÿfÿff2f3fnl` `   ~üpüfÌvÌ~ìnüfÜfÌ~ÌvÜØÀpÀ À  0 0~~ÿfÛff|fxfffs~|`|`p`   30?ü şş0øîlfàøğ  0 ?~~lfffffoflflfonÿlà` `   ~~fUfUfUfUfUfUfUnWìÿàø` `  ?ø?ø À}œà¸3ïğ  ğ0ğüø    6~w~ãfÌff;faæÿæÿf3n3l?`?`3`   À øÿøÿmşm mxmHmHmXoDn|lÏşÇü   ||cllclll lfl~|x|c``>`    w~U~wf ff fÿæÿæ0f?n?l```  7¼÷¼Æ´Ö´×´Ö´×´×´ö4Ö´´¼6°`0À0   ~~<fïfÍæf3æíæÍfon>lï`İ``  7Xã8Ş˜^ÿşnøİ  øø80     ?ş?ş0 0 0 0 0 0 0 0 ` ` À €     à?àğÀÿş?ş0 0 0 0 p ` à À     ?ş?ş0 7ø7ø6666ø6p6fgşÃü    üü` ` oüoü`À`À`À`À`À`ÀÁÀ€    ?ü?ü0 1€1€?ø?ø1˜1˜3#fLxÈp    ?ş?ş0 7ø7ø0À0ü?ü?À0À`Æ`ÆàşÀ|    ?ş?ş0 7ø7ø0À0À?ü?ü0À À`À@ÀÀÀ    ?ş?ş0 7ü7ü1€1€1ø1ø3#flxHp  ?ş?ş0 7ü7ü0060?ş?ş0ğ1°#0n0LpÀ`    ?ü?ü0 0À0À7ü7ü0À0Ğ0Ø0ÈoşoşÀ     ?ş?ş0Ğ0Ø0È7ü7ü0À0À1à30flÈ  şşa€oüoüc fÀoøoø`Àoüoü`ÀÀÀ€À    şş` oøoølÀoüoül`l`ovo>ÌŞÀÌ    şşc güoüm€aøaøa€aøaøa€Á€Á€    ?ş?ş303?ü?ü3`3l3x6pfàmæß~Ø<    şş``o`o`mlm|mxm`o`of`fÀ~À<    ?ş?ş6 7ø?ø<À0À?ü?ü0ÀlÌlÌÏüÏü    ?ş?ş0À7ø7ø0À?ü?ü0À7øgø`ÀÏüÏü    ?ş?ş0 ?ü?ü307ø7ø0À7øgø`Àßşßş    şş` o¬h¬j¬j¬j¬j¬j¬gmŒØœÀ    ?ş?ş60?ü?ü6Ø6à6Ø6ğfÜlğoÆØşØ|    ?ş?ş0À7ü7ü30?ş?ş0À?üoü`ÀÀÀÀÀ    ?ş?ş0 7ø6Ø7ø6Ø7ø7ø0Àgø`ÀOüÏü  ?ş?ş0À?ü?ü0À7ø6Ø7ø6Øgø`ÀoüÏüÀÀ  üü` oøloøloø` oø``şßşÀÀAÀ  şş` `ününÀjşjşjØnØnØ`Ø`ØÁ˜Á˜  ?ş?ş0 7ü0À?ü?ü6Ø?ş?ş6Øoü`ÀÇüÇü  ?ş?ş0 1°7ü1°1°?ş0 7ü67üfGü†    şşc`o|o|c`o|o|c`||c`Ã`Ã`  ?ş?ş0À7ü7ü67ü67ü7ü0À&ØlÌKÄÁ€  şş` o¬o¬m¬o¬m¬o¬m¬o¬`mŒİÜØØ  şşa€oøoøloøloø`ÀnìnüfØıÎÙ†  şş` f|f|oLoLf|oLoÌvüvLf|Æ|†L  şş`Ğ`Èoüc0f|oülÌoülÌoüÀÀ€À  şş` o|o|f0o|o|f0oxo|~öw¶Æ0Æ0  şş` h°e0o¾bfj”joob8flÌÆ˜   üü` üa€oøloøloøf oø[0ÁàŸ<  ?ş?ş0À?ü0À7ø7ø67ø67øfşÆÌ    şş`oŒ`>o¾iŒo¬o¬`,mŒÇÌŞ@    üü` o|koXk~o~hk8oxlÚÉA  şşf0üüf0oøm˜oøa€oøa€oøÁ€ßü    şşf0o¾f~oìfl¬f<g¼o˜m¼ÛîÛf  ?ş?ş67ø67ø307¸>¼3°6şl gøÆÇø  şşk0o4k4o0`şoşo0k8o8klolËÆË†  şş` i>¾i0o>i>o4i4ô`4J4Ñd€D    şşf~~f8o|~Şva€mŒl>ÏöÇà    şşf0v¾o>flìq¬w¬u¼w˜q¼ÑîÓÆ    şşaÀgp~<{ì` o|mlo|f0f8Ï|Íl    şşc0üc0gøfØgøfØoülÌlüÏŒÌ  3;˜şş` o0c>şoìm¬o¼mØß¾Áæ  şşk0o4`~o~k0oxkLoülÌoülÌÏüÀÀ  ?ü1€7ø6gøæØİÌşdÈnÜjÔnÜtÈ×îÍZ           `000øü        üü ÀÀÀ°°3wüoü    0000000`0`6lflfÌşÌşş ş     àà``fs~c< 00øøp    üüÀà<pû<ã 00ğ?ø  €€€?ø?ø€€ÿşÿş `0ø?ü?    00?ø?ø €€°˜1Œa„G„     00ğø  00006lfl~|şşÆÆ    ğğ00?°?°0ğğ0¶1¶ŞÌ    øøøøÿşÿş 0?ø  €şş€?ø1˜?ø1˜?ø?ø 0ø?ü?   @àğ şş`07Øàà  ?ø?ø   `0ø şş0ónÌ	0à€>   `ğğ`6Ì~ü€àü~ãÀ˜pÀ>   `ğğ`6Ì~ü€ğü~ïî  à  ?ø?ø  `ğğ0`6l~ü€àü~ól;ls6g6    ş{ìy¬şÿşşÆ1ü1ülÀıüıÜxüÌ   0 üv4vş şø4øüg0g´ÛxÛ¼ûtÿ€ş~    ?ø?ø00``ÀÀ€àxx`    øø00`@À€Àpø>`    ?ğ?ğ0`xx0à0Àcğ_>    üü ğğ00 1``ÀÃğ<    }ü}üÌlÌlÌ8ØØĞp6`"ğa˜Ç   p?ø?€0 0 ?ğ?ğ60603`3`aÀcğŞ>L    oüoümŒmŒmœmØlØ|ğüpÌøÜ    ?ø?øÿşÿş ?ğ?ğ`àÀü||   üü  şş øø°8àqğo¾   3033 üü øø03`aÀCà>  ğğ0`à?ø>8  ~ü~ü6Øx><vî`Æ  €üü€?ø1˜?ø€?ø?øpàÀü||   üüÌÌÌÿlÿll~x{0ÛpØØ9Œ3    ~ü~ü6l8~üvì  ~ü~ü6Ìx>|vî`Æ  ş şüfüflfl~lflfl~lf8g0ÿ8öîÄ   øø~ 3°üü`àà`ÀÀ>pp   üüÀĞ6ØfÌ  ?ğ?ğ`ÀÀüx<   ü6ücLÿL>LLXXp.0mpÌØ    ~ü~üf~ü~ü` ~ü~ü`Ì~x~0`xaşaÎ  ZşZğ<ÀÀ~ü~üÌ~Ì~ì¬˜38fìDF   üüc07àğx<ìà`àÀü||    üü|Ì|ÜÀü~ü~Ì0ì6øfØ~ü~î Æ    cüül`l~l`lx8l0xmüÍÎİ„  €=¼=¼1Œ=¼1Œ?ü€?ø?ø0Àğ|  ?ğ`À`~ø4Øp2ÈÿşÀğ0ğ0ü    üÿüÃl~lklÕl>x÷8>06x>ü7Î?†  6Ø6Øü`ü€?ø€ÿş6 >|6l?8ÿşæî      ?ü?ü0000000?ü?ü0    €€€şş€€øøøø    üü0`_ÌÌÌÌÌÌÌ < 8    øøøø øøxx0p    øøøø  üüp<`8    }ü}üdÌdÌdÌdÌdÌ|Ì|ÌdÌaŒ<8    ~ü~üfÌfÌfÌfÌfÌ~Ì~ÌfÜ`Ø À À À    øøøø  00`@   ~~ÌfÌfÌfÌfÌfÌ~ü~üfÌf     ?ø?øx8pp øøøø    }°}°e°e°e°e°e°}°}°ecf    ışışÌ0Ì0Ì0Ì0Ì0Ì0ü0ü0Ì0À0 p `    ÿşÿş  ?˜?˜1˜1˜?˜?˜1˜  x p     0?ü?ü  øøøø   ` `~`~dflflfxfpfàà`ff`f ~ <  €€?ü?ü1Œ1Œ?ü?ü€€€ €}şp|     şş  øø<lÌøø    ğğ06>xp øøøø    üü` ` gøgøffgøgø` ` üü   0|0|0l0l0mşmşl0l0|0|0l0`0 0 0    øøøø  ÿşÿş øø ğ à    ?ü?ü ìì ?Ì?Ì0Ì0Ì?Ì?Ì < 8    ûüûüÉŒÉŒÉ˜É˜É˜ÈĞøğø`ÈğÁ˜     À~`~`f f0fpfpfX~Ø~ØaŒ   ` `~`ügüflflflflfl~Ì~ÌaŒ<8    ü}ü|ll,lllLlÌ|Œ}Œmc 8 0    ûğûğË0Ë0Ë0Ë0Ë0Ë0û0û0Ë06>    øø à€€€€  ?ø?ø00?ø?ø    üü~`f`f`f`f`f`~`~`f` `şş   üğ|0|0l0mşmşl0|0|0l0 0 0 0    ùüùüØ`Ø`Ø`ÛşÛşø`ø`Ø`À` ` à À    üü0 0 ?ø?ø  ?ø?ø00?ø?ø   À À|ü}üo€o løløl0|`|Àm†a†ş ü    ğğ4`fÀ€øğğğ00ğ0     ü~ü~ÌfÌfÌfÌfÌfÌfÌfÌ~Ì~üfü Ì   0 0|`|`dÌeŒeøeød0d`|@|ÌeŒcş†    ü}ü|8lpl`oşoşl`|`|`l` ` à À    €Àpşïì@ ?ğ?ğ0000?ğ?ğ00  €€şş€€?ü?ü  øøøø    øøø€?ü?ü1Œ1Œ1Œ1¼1¸€     |}şmşlm˜mØ|Ø|l  8 0    üü`oìoì`gìgìflgìgì``<`    øø80v`#À€üü|üü   8?ø?À0 ?ş?ş0 0 ?ø?ø|lïøÏø  €€üü€?ø?ø1˜?ø?ø€ Àüşp<   ` `ü`ü`Ì`ÏüÏüÌ`Ì`ü`ü`Ì`À`Çşş    ?ü?ü007ì7ì6l6l7ì7ì00<08   üûàø`È`È`È~ÏşÏàÈ`ø`ø`Èf ~ <    üûüÈÀÈÀÈÀÈĞÈØÈÌøÄøÀÈÀÀÀ À À   0 0°}°}¾mşoöo¶m¶}¾}¼m°†ş ü    øøøø  ?ü?ü00?ü?ü0  Œ}Œ|ØdØd0d`d`d`|`|`d``` ` `    }ø}ølm˜m˜m˜mşmş|}ömö` <    À À ü}ü°o0l0oşoş|0|0l0 0 0 0   ` `|`|`mdmlmhl`lp|ğ|Øm˜    ü}ü|ÌoşoşlÌmümü|Ì|ÀmÀ€      ?ø?øÿşÿş?ø ø?ølOøø    üü|ÌlÌlÌoüoülÌ|Ì|ÌlÌ Ìşş   üü`À€àø>üğ00ğğ0  ?ø?ø  üü`0şö00ğğ0   ` `|p|Ğl˜mŒofl2mü}ü|l`0 0     ` x|l|ll`oşoşl`l`|ğ|ğm˜cŒ  0û0û0Û2Û6ÛüÛøÛ0Û0û0û0Ûpö¾   €mŒlìÌøğ  øøøø     `ğ0ğĞÀĞÀÒÌÒÆÖÆÖÂôÀğÌÀÌ ü x   ` `|ğ}øoœollØlØ|Ø|Øm˜˜    şş|`l`l`lìmìoæf|`l` ` ` `    üü€à¸yá†øøøø    ü{ü{lklklklkükü{ { kcşü   ` `ûşûşØ`Ø`ÛlÛlÛlûüûüØ`Àf ~ <    ù°ù°Ù˜ÛÛßşŞøøØøØØØÁ˜˜xp  °°}°}¶m¾o¼o¸mğmğ}°}°m´¶¾œ   €À`;8á_äà Àøøøø   ıüıàÍ€Í€ÍşÍşÍ˜Í˜ı˜ı˜Í˜Ã   À `şşl mømøm˜m˜}˜}˜m˜c   À Àù€ùÛÛüÛôÙ°Ù°ù°ù°Û0Æ6>   €?ü?ü0?ü?ü0 7ü7ü6fgüÇü†   À À|ÀşoşlÀlÀl°m°}°}lclüş Æ   `ø`ûşËşÈ`È`ËüËüÉŒù˜øğÈ`Àğ   ûìûìÈlÈlËìËËËìølølÈlÀlìÌ  ààl`oàoà` ğğ0ÿşÿş`0p`  ?ø?ø0?ø?ø  ?ø?ø üüÀ`x>`   ` `|`}hmlmfobn`ll|l|l0``À    ` `|`}şmşm¶m¶m¶mş}Î}†m††Œ   ` `|`}ümülllllloşş|plØŒ    {ü{üi˜i˜i¾i¾iÌiÌ{l{8c0fxÎ†  €€}€}şoşonll`l`|`|àm°c     ø|ø|ØmŞoo mümü|Ì|Ølp ø  €€ù€ùşÛşŞ¶Ø¶Ù¶Ù¶ûfúfØÆÁ†<    ØØhØi˜i˜i˜iØoØ˜y˜i˜aš   0 0}°}°müoüo0l0oşş|0l0 0 0 0  ?ü?ü øøşş  øøøø  €€ø?ø1€üü€øøøø    ü{ühi˜i˜kşkşhØxØi˜i˜cx 0   À À|ş}şo†olÆlælf|6|öoæ† > <    øøøø ?ü?ü00?ü?ü0    ûşûşË Ë|Ë|ËlËlûlûxË`Ã`f~>    ?ğ?ğ<8<1€ÿşÿş€øøøø   À à|`şoşm˜m˜m¸mğ|ğ|`lğø    øøøø€ÿşÿşà°qaŒ€  €˜}˜}°à9ğw¼ç@ ?ø?ø00?ø?ø  øøøø  ?ü?ü€øø€şş  ğğl0oğoğ` øø ÿşÿşp88p`  €€ø?øa€€şş  øøøø   ` `ø`ûüËüÈ`È`ËşËşø`øğÉ˜Ã    }˜}ØlØlm˜mØlØ|şcø       ü}ü| l oşoşl`l`|à|ÌmŒşş    üûüûÛÛüÛüÛ`Û`û0û0Æ     ØûØû˜Ù˜Ù˜ÛşÛşÙ˜ù˜ù˜Ù˜   ` `{ş{şkfkfkfkfkÖ{–{kc   ø?ø?  üü`88ÿşßşøø    ûøûøÈÀÈÀÏüÏüÈÀÈğù°ù°Ë06>  ˜˜ÿşÿşÉ˜È ËøËøÈ`øÀù€Ë üø   À ÀøÀøÀÏüÏüÈÀÈÀÉàù°û0ËÆŒÎD    ü{ü{ k˜kØkpk0k0kx{Ì{Œk cşş    ûşûşÛ`Û`ÛüÛüÛlûlûlÛlÆlÌœ  üûüûËlËlËlËlËlËlûløÀÉ°   ğğ00ğ  ?ø?ø0333px  øøø€üücfÌllx,``   À À|À|şmşo˜o˜m˜l˜|Ø|plp Ø   ` `üğüØÍŒÏÍøÍøÍ˜ı¸ı°Í€Í†ş ü   `ü}ü}ŒmŒm¼m¸m€}ş}şlcææ     `şûşûÛşÛşÛ Ûüûøû0Æ`Æ†şü    üûüøÛüÛüØÛìÛìûlûìÛì      ` `  ûşûşØÀÙ˜ÛøÛğø øhØÌüş    ` `ø`ûşÛşØ`ØğÙøÙøûlÿüÎöf ` `    üûüûÛüÛüÛ`Û`Ûşûşû0Û2ÖŞ    ü{ü{kükük kf{l{xk`f`f~<    üûüûÛlÛlßşßşÛûlûşÛş  < 8   `x`xği˜knÆh`køkøhx0y hà p 0   ` `ûüûüÛlÛüÛüÛlÛlÿşÿşÛ   00ó0ó~Ö~Ö¶×¶Ñ6Ó6Ö¶÷öğfÀŞœ     üûğû0Û0Û0ÛşÛşÛ0û0û0Ûºš~ n    ?ü?ü1Œ7ì1Œ7ì7ì07ì6lgìgìÀ€    üùüø Ø ÛşÛşØ`ÛlûlûlÆff à À    üûüûÛÛÛüÛüÙ°ù°ù°Ù¶6>   ` `ø`ø~Ø~Ø`Ø`ÛüÛüûûÛüü    ş÷şö¶Ö¶Ö¶Ö¶Ö¶×¾÷öÖşş   llûlûlÛlßşßşÛlÛlû|û|Û  şş    üûüûÛÛÛÛüÛüø ù˜Ùˆ    üûüø`ÛlÛlØ`ßşßşø`ø`Ø` ` ` `  ``o|o|l`ofÿ~ø<  ?ø?ø00?ø?ø   ÷ü÷ğÖĞÖĞÖĞÖĞÖØÖØöÈöÌÆÔöÒ    ØøØøØÈØÊÚÊşÊüÊØÊØúØúØÂØú   ` `ûøûøØ`Ø`ÛüÛüØàùğûxÃlÆfb `   À À|ş}şo†omömöm¶}¶}ömö       {ş{şhkìkìklklkl{ì{ìkl` < 8   ~÷ş÷¶Ò¶Ò¶Ö¶Ö´Ö”óœñÓ¸lÆ ‚  ş{ş{fkfkşkşkfkfkş{ş{fh` ` ` `    şş|0lpl`lèmìof|b|`l```şş   ``û`ûüßüŞ`Ø`ÛşÛşø`øğÙ˜    ü}ü}Œmül oşoşlÀ}ü}ül  < 8   ` `{ü{üklklkükü{l{ükücl ` ` `   <{ü{àh`klklklh`{ş{şh``` `àÀ   €À`øwŞ`>ø>ø6Ø6Ø>Ø>ø0À À    üûüûÛÛüÛüÛÛûüûüØ   şş   ` `|`}ümül`l`oşoş|À|ÌmŒœşæ    ü}ü}ŒmŒmümümŒmŒ}ü}ümŒaŒşş  ŒŒ}ŒşoşmŒmŒmŒmü}ü}ŒmŒüüŒ  ş÷şö Ö0ÖüÖüÖ´Ö´Ö´ö¼ö0Ö0Æ şş  ûPûPÛ~ßşßÖÛVÛVû^û\ÛPF~<   ` `ûfûfËfËfËşËşÈ`ûfûfËfÃşş   €?ü?ü0`şş  øøøø   À À}şşnmömöm¶m¶}ş}Œm€a†aş ü   @ `ø,øÌØÌØÈÚØÚÔÚöúâøÀÁÌÌü x   ° °{ş{şh¶kşkşj°kş{şx¶h¾¼00   ` `ø`ûüÛüÛlÛlÛlßşÿşøğÙØœ   <üûàø`Ø`ÛüÛüØ`ØğùøûlÇnf` `   À ÀyşyşkÀnÀhühühÀxÀxşhş`À À À   ~ xüüÌÿÌÿÌÌ>Ì{ÌØü˜üÌ     À ÀøÀùŒÙŒÛüÛşØûüûüÛÃüü  ```?xsl[d`şñş` øøø   À ğx0{àkàhfoloxip{p{xfnf	à À   Ì Ì|Ì}Œm¾o¾oŒm¬m¼}œ}ŒmŒaŒœ˜   ~û~ÿØßØÛÛÛØßØÿûÛ80    ~ü~üfÌ~ü~ü  àà``ff0~`<    üÿüù€ÙøÙøÙÛXÛXûXûÛÚÚ     À|À|üdüdÀdÀgşgşdÀ|Ğ|ØdÌ`Ì À À   ` `x`şoşh`h`kükü{{kcüü    {ŞoÖkVkVkVkVkV{V~VfŞÖ    À ÀøÀûşÛşÙ€Ù€ÙüÛüû0ÿ0Æ00şş   ` `ûşûşØÀÙ°Û°ßşßşù¶ù¶Ù¶¾¼ 0  €y˜yˆküküi°i´i¼y¸{0cpò¶   ÀøÀøøÉøË˜ÎğÈ`ÉØÏøàø0È À p    ` `ûşûşËÈ È ËşËşø0ø0È0 0 ğ à   ` `ûşûşÛÛØÀØØØüøğøÀØÆ Æ ş |  óò0Ö¤Õì×xÓÖ0÷¼÷¼Ğ   şş    şÿşù˜Ù˜Ù˜ßşßşÙ˜ù˜ù˜Ù˜    şÿşøÀÛüÛüÛÛÛüûüûÃüü  ğğ0ğ  üü0ğ0ğ>ÿşÿğ 0    şÿşù˜ÙøÙøÙ˜ÙøÙøù˜ùşÇş      >ø6Ø>ø  ?ø?ø  şş ø  ø ğ   `ğ`ölÓlÓxĞ`×ş×şÑ°ñ°ñ°Ó°6>   À À÷ü÷üÖĞ0ÓğÓÀĞü×ü÷ÀğÀĞÌ ü x    şÿşøÀÙ˜ÛüÛşØfØ`ûüûüØ` `şş   ` `ûşûşÈ`ËüÈlËüË`ûşøfÀì°   ÷Æ÷ÆÓÓÖ×ÖÖÖÜÖÚÖñ–ñ–Ó   €aü3üÌ Àà1°gDøøø  ˜øûüËüÈ`ËüËüÈ`ø`ÿşÏşÀ` ` `   ` `údûlÉhÈ`ËşËşÈğùøûlÆfb ` `   ||lclcl||l llfÆfÆc AÀÀş€>   Àø`ûşËşÈ É˜ËÊÉ˜ù˜ù°ÈàÀğ   ` `ûşûşÈ`È`ËüËüÈ ËüûûÃüü   ``û`ûüßüŞ`Ø`ÛşÛşøğùøÃlnf `   À ø}øo°làlğmo}ü}ŒmŒaüüŒ  €€}ş}şooömöm¶mö}ö}¶möö     ` ÀûüûüËËËüËËûüûËÃüü  ˜ø°ûüÛüØ`Ø`ÛüÛüø`øàÙ°   À `şşi€i˜køkğhlxÜ{¸kp`ØŒ  €ñ€÷ş×şÑ€Ñ°Ó6Ó´Ò¼ö°üpĞØŒ   ` `ûşûşÙ˜ßşŞöØ Ûüûüù€Ùø  x 0   <üûàø`ÛşÛşØ`Ø`ÛüûüûÛüü  °°ù¶ı¶ß¼Û¼Ù°Û¸ß¼ı¶ù²Ù°6>   Ø Èüü`ÀoÀoÌ`ÌoXkPk0or`ÚÁ   ` `ûşûşÛÛfØ`ÛşÛşù˜ù˜Øğ xÌ    şşø ûüÛüÛÛüÛüûûüÛü  şş  00ó0öüÖüŞ0Ş0ÖpÖxÖüö¶÷2Ö000    ğğ0°°üü`oìlloìoì``  ş{ş{kfkfkşkşkf{v{Şkcşş   À ÀûìûìØØßşßşØ`ØÌûüûğØÀ Æ ş |   óüóüÖlÖşÖşŞlÖlÖüöüölÖ`@À€  €şş  øøøø€Ø|pm8    øøøø  ~ş~şfÆfÆ~ş~şfÆ    ş÷şğĞ×ş×şÖ–Ö–×öö×şş    şûşûÛvÛÛvÛvÛVûVûvÛv     Ø|Ø}ümülØlØlØoşş| m˜c  €€ùşûşßŞ¦ØæÛVÛöû¶ûÛöö     À ÀùüûüË˜ÈğÈÀÏàË~øşûÌËxÀ0à€   ` `ûüûüØ`ßşßşØ Ø`ûüûüØ`À`şş   ` `|`|ğm˜oünöl mü}ü}ŒmŒaüüŒ  À~Ø~ÌÀÿşÿş À~Ì~ÌfØfx~p~v`Ş   À ÀûşûşØÀÙüÛüßŒİüùŒùüÙüŒœ˜   öØöØÖŞßşßúÖÚÖŞÖŞöØ×ØÏÆş |   ü÷àöÖğÖĞÖÖÖÜÖØöĞöØÜÈìÆ €   ` À{ş{şkkvkvkVkV{V{vkvc  ˜˜üüm˜l m˜m˜m˜||ğl``ğ  øûøûËËøËËøËøËdûlû8Ë0Ø  şşö öüÖüÖ0ÖüÖüÖ0ö0öüÖü şş    ü÷üñ°Ñ°Õ´Õ´Õ´×¼Ó¸ñ°ñ°Ñ°şş   00ó0ñşĞş×0×0Ó0ÓxólóÆÓ†Ç ş~  €ùüÿüÏ€ÈØÈpËäË¼È ÿüù°É°Ã6>  0û6û¼Ë¸Ë0Ë6Ë¾ËÈ`ø`ÿşÇş ` ` `   0û6û6Ë6ËşËşÈÀÉüËüúø˜ÈØÀpÀ€  €€ùşûşß0ßüÙüÙ°Ù°ûşûşØ0 0 0 0  °ù°û6Û<ß8ßpÛvÛ>Ûø`ÿşÇş ` ` `  €¼ÿ<ş Ù€ÙşÛ~ßßûûÛ80   ` `øàù°ËÎÌöÈ ËüûüøÀÉÃü  øñøñ˜Ñ˜Ñ˜ÓÖnĞ`÷ş÷şÑğÃxnf `   À~Ì~üfğfÆ~ş~|À<ğø>ïşğ0<ğ8à   `ûşûşÉˆÈØÈpÈØËÊù˜ù˜É˜˜   ÀğÀ÷ü×üÖÌĞÀÑ¤Ñ¬ó¸÷°ÍÉ˜ìÆ€   ÀğÀñ˜ÓüÓüĞ Ó`Óü×üö`÷şÇş ` ` `  00ó0ò>Ö¾×æ×FÒ&×¶÷–ğÑ†<    0°ùüûüÛ0Ø0ÛşÛşØ ùüùüÙŒüüŒ    ğ0ğ  ?ø0?ø0?ø0?ø?ø0p  üüø`ùüÙüØ`ßşßşÙ˜ÿşÿşÙ˜˜˜    üûüø ÛüÛüÛÛÛüûüù˜Ù¸ 0şş  08ûÿüßüÛhÛxÛpÛlûxûlŞxvş¼  üü ?˜1˜?˜  ÿşÿş ?˜1˜?˜ x p   0yô´i´oşoşi°i²iö{ü{˜i˜aºî   ` `óüóüĞ`×ş×şÑ°Ó¼÷¶õ¶Ñ²Ã0p`   `lûlùøÈ`ËüËüËËûüûËüÃ    üûüûlËüËlËlËüËüø`ûüËüÀ`şş  ŞŞzÚjÚjÚoÚjÜjÚoÚÚzÚjŞfØØ	˜    üûüûÛÛüÛüØ`Û|û|û`Û`àş>   şóşöŞìŞìÖ¬Ö¬ÖìöìöÖ    >ü>ü6Ì>ü>ü üüÀ`08p   ÀìùìøØÛşÛşØ`ÙøÛ˜ş`ûüÛüÀ` à À    üûüûÛüÛÛüÛÛüûüù°Ù¶¶>   0 0ûşûşÛÙ°Ù°ÙüÛüû0ûşÛş 0 0 0   `üûüø`ÛşÛşÛÙøØ0ø`ûüÛü ` à À  }ü}ğ€}ş}ş˜;˜3?ğ?ğ0000?ğ?ğ  ~óx÷à×àÓ~Ó~Óì×ì×lólólÃlÌŒ   ` `üûüûÛüÛÛüÛüû`ûlÛ<ØÎ    Æ÷ÆöÖ×Ö×ÖÓ×Ö×ÖóVóVÆVFÎ	Œ   Ø ØûŞûŞØØØØØ ÙüÙüø`ûşÛş ` ` `   şûàøÛfÛfØÛşÛşøøØØØ  8 0   şûğøÛlÛlØ ØÀßşÿşù˜Ùğ øŞ†   şûàø6Ù¶Ù€ÛüÛüØ0ø`ûşÛş ` à À   l l{ş{şh`küküklkü{l{üküclll  üüûûüÛÛüØ ÛüÛüø`ÿşÇş ` ` `   `ûşûşØ ÙüÙŒÙüØ ÛüûüøØ0 0 ğ à  şşø`ûüËlËlËüËlËüø`û`ÁÀ à8  ˜ù°ûüÛüÛÛÛüÛüù°ù°Ù°¶>   ÿ|ÿ|L3Lf|  ÿşÿş ?˜1˜?˜1¸ 0   üø`ÿşßşÙøßnŞfÛğûğù¼Ù¼Œ   ` `ûşûşÈ ËüÈ ËüÈ ûüûüËÃüü    ˜ûœûlØğÙøÛœßßşùøù˜Ù˜øø˜   Àøûøÿ0ßüÛüÛlÛüÛüûlûüÛül|  üüûûüÛüÛÛüÛüÛûüûüÙ˜œ   ` `øğù˜ÛnŞfÙøÙøØ0ûüûüÛüü   ÀøĞù˜ÛüÛÄÙ˜ÛŞÄÙøûøÚ˜ÀĞ pŞ  üü` oø` şşlØop`oøÌÌOø    øûøûÛøØ ÛüÛüÛlûüûüÛ şü   À Øy˜{üküi€iüküj`{ş{şhğa˜   ` `ûşûşØ`ÛlÛlßşŞöø`øğÙøœ   ` àùğû¸ßßşÙøØ`Ûüûüø`Ûlnæ À   ~÷xóÓXÖ^×^×XÑXõ~÷~Ó€Àş>   ` `÷ş÷şÖÑøÑøĞ Óüóüñ°Ñ°¶>   ÆÆ†ù–ù–ßÖßÖÙ–ÛÖÿÖı–Ù–†Œ  ñ˜ğğÑ˜Ól×ş×şĞÀñ°óüÏ´Í´´¼ 0  €üüa€oøa˜üa˜oøa€oølLÏøŒ   ` `ólólÓlÓlÕvÔâĞ`
+    DWORD dwType;               // type of the operation(count or save)
+    DWORD dwCount;              // the total count of items
+    DWORD dwSize;               // number of items actually in array
+    LPDIDEVICEOBJECTINSTANCE* rgObjData;   // array of control info
+
+    DidcvCustomViewInfo()
+        : dwType( 0 ),
+          dwCount( 0 ),
+          dwSize( 0 ),
+          rgObjData( NULL )
+    { }
+
+    ~DidcvCustomViewInfo() { CleanUp(); }
+    
+    VOID CleanUp();
+};
+
+
+
+
+//-----------------------------------------------------------------------------
+// Name: class DidcvView
+// Desc: data structure for representing one view of a device
+//-----------------------------------------------------------------------------
+class DidcvView
+{
+public:
+    virtual ~DidcvView() { };
+
+    // DidcvView interface
+    void SetOffset( INT nOffset );
+    void SetID( INT nID );
+    INT  GetOffset() const;
+    INT  GetID() const;
+
+    // rendering
+    virtual BOOL GetViewSize( SIZE* pSize ) const = 0;
+    virtual void Render( HDC hdc, VOID* pBits, INT width, INT height, const POINT* pPtOrigin ) = 0;
+
+protected:
+    // constructor
+    DidcvView();
+    // the original offset in the array returned by DirectInputDevice8::GetImage
+    INT m_nOffset;
+    // the internally assigned unique identifier
+    INT m_nID;
+};
+
+
+
+
+//-----------------------------------------------------------------------------
+// Name: class DidcvBitmapView
+// Desc: subclass of DidcvView that renders a bitmap
+//-----------------------------------------------------------------------------
+class DidcvBitmapView : public DidcvView
+{
+public:
+    ~DidcvBitmapView();
+
+    // interface
+    virtual BOOL GetViewSize( SIZE* pSize ) const;
+    virtual void Render( HDC hdc, VOID* pBits, INT width, INT height, const POINT* pPtOrigin );
+
+public:
+    // function to instantiate a DidcvBitmapView
+    static DidcvBitmapView* Create( LPCTSTR ptszImagePath, DWORD dwFlags );
+
+private:
+    // constructor
+    DidcvBitmapView();
+
+protected:
+    // bitmap of the view
+    DidcvBitmap* m_lpBitmap;
+};
+
+
+
+
+//-----------------------------------------------------------------------------
+// Name: class DidcvCustomView
+// Desc: subclass of DidcvView that renders a view from custom data
+//-----------------------------------------------------------------------------
+class DidcvCustomView : public DidcvView
+{
+public:
+    ~DidcvCustomView() { }
+
+    // interface
+    virtual BOOL GetViewSize( SIZE* pSize ) const;
+    virtual void Render( HDC hdc, VOID* pBits, INT width, INT height, const POINT* pPtOrigin );
+
+public:
+    // static function to instantiate a DidcvCustomView
+    static DidcvCustomView* Create( const DidcvCustomViewInfo* pInfo, DWORD dwStartIndex, DWORD* pFinishIndex );
+    static BOOL CalcImageInfo( DWORD index, LPRECT rcOverlay, LPDWORD pNumPoints, LPPOINT rgptCalloutLine, LPRECT rcCalloutRect );
+    static DWORD CalcNumViews( DWORD dwCount );
+
+private:
+    // constructor
+    DidcvCustomView( const DidcvCustomViewInfo* pInfo, DWORD dwStartIndex, DWORD dwEndIndex );
+
+protected:
+    // returns coordinates for a given index
+    void CalcCoordinates( DWORD dwIndex, LPRECT lpRect );
+
+    // custom data from which to render the view
+    const DidcvCustomViewInfo* m_lpCustomViewInfoRef;
+    DWORD m_dwStartIndex;
+    DWORD m_dwEndIndex;
+};
+
+
+
+
+//-----------------------------------------------------------------------------
+// Name: class DidcvViewManager
+// Desc: stores and manages all the views for particular device
+//-----------------------------------------------------------------------------
+class DidcvViewManager
+{
+public:
+    DidcvViewManager();
+    ~DidcvViewManager();
+
+    // interface
+    BOOL SetCapacity( UINT uCapacity, BOOL bDeleteContent = TRUE );
+    BOOL AddImage( DidcvView* pView, INT nOffset = DIDCV_INVALID_ID );
+    DidcvView* GetImage( INT nID );
+    DidcvView* GetImageByOffset( INT nOffset );
+    UINT GetNumViews() const;
+    void CleanUp();
+
+protected:
+    // table holding references to views, indexed by the internal unique identifier
+    DidcvView ** m_ppViewTable;
+    UINT m_capacity;
+    UINT m_size;
+};
+
+
+
+
+//-----------------------------------------------------------------------------
+// Name: class DidcvCallout
+// Desc: data structure for representing one callout on a particular view
+//       A callout is the line drawn from each axis/button to a label
+//-----------------------------------------------------------------------------
+class DidcvCallout
+{
+public:
+    ~DidcvCallout();
+
+    // accessor functions to information retrieved from DirectInput
+    DWORD GetObjID() const;
+    const RECT & GetOverlayRect() const;
+    const RECT & GetCalloutRect() const;
+    const POINT* GetCalloutLine( DWORD* lpNumPts ) const;
+    DWORD GetTextAlign() const;
+    DWORD GetOverlayOffset() const;
+
+    // accessor functions to internal data
+    void  SetAssociatedViewID( INT nViewRef );
+    INT   GetAssociatedViewID() const;
+    void  SetDataRef( const DidcvCalloutData* lpData );
+    const DidcvCalloutData* GetDataRef() const;
+
+    // hit test for a given point
+    DWORD HitTest( LPPOINT lpPt ) const;
+
+    // draw the overlay
+    DWORD DrawOverlay( HDC hDC, VOID* lpBits, INT width, INT height, const POINT* pptOrigin );
+
+public:
+    // static functions to instantiate a callout object
+    static DidcvCallout* Create( LPDIDEVICEIMAGEINFO devImgInfo );
+
+private:
+    // private constructor
+    DidcvCallout();
+
+protected:
+    // copy of device information
+    DIDEVICEIMAGEINFO m_devImgInfo;
+    // the view that this particular callout is associated with
+    INT m_nViewRef;
+    // pointer to callout state/data
+    const DidcvCalloutData* m_lpDataRef;
+    // the bitmap of the overlay
+    DidcvBitmap* m_lpOverlayBitmap;
+};
+
+
+
+
+// default array size
+#define GW_ARRAY_DEFAULT_SIZE       4
+
+//-----------------------------------------------------------------------------
+// Name: class GwArray
+// Desc: templated c-style array class for PRIMITIVE data types only
+//-----------------------------------------------------------------------------
+template <class Item> 
+class GwArray
+{
+public:
+    // constructors
+    GwArray() { this->Alloc( GW_ARRAY_DEFAULT_SIZE ); m_size = 0; }
+    GwArray( UINT initCap ) { this->Alloc( initCap ); m_size = 0; }
+    ~GwArray() { this->DeAlloc(); m_size = 0; }
+
+public:
+    void SetSize( UINT newCap )
+    {
+        if( newCap == m_capacity )
+            return;
+
+        m_size =( newCap < m_size ? newCap : m_size );
+
+        UINT old_cap = m_capacity;
+        UINT numoverlap =( newCap > m_capacity ? m_capacity : newCap );
+
+        Item* oldList = m_list;
+        this->Alloc( newCap );
+
+        if( oldList )
+        {
+            memcpy( m_list, oldList, sizeof( Item )* numoverlap );
+
+            // free( oldList );
+            delete [] oldList;
+        }
+    }
+
+    Item & operator[]( UINT index )
+    {
+        if( index >= m_capacity )
+            assert( index >= 0 && index < m_capacity );
+
+        return m_list[index];
+    }
+
+    const Item & operator[]( UINT index ) const
+    {
+        if( index >= m_capacity )
+            assert( index >= 0 && index < m_capacity );
+
+        return m_list[index];
+    }
+
+    void PushBack( const Item & item )
+    {
+        if( m_capacity == 0 )
+            SetSize( 2 );
+        else if( m_size >= m_capacity )
+            SetSize( m_capacity* 2 );
+
+        m_list[m_size] = item;
+        m_size++;
+    }
+
+    void Resize( UINT newCap ) { SetSize( newCap ); }
+    void PopBack()        { if( m_size ) m_size--; }
+    void Clear()          { m_size = 0; }
+    void Trim()           { Resize( m_size ); }
+    UINT Capacity() const { return m_capacity; }
+    UINT Size() const     { return m_size; }
+
+protected:
+    inline void Alloc( UINT cap )
+    {
+        if( cap == 0 )
+            m_list = NULL;
+        else
+        {
+            m_list = new Item[cap];
+            assert( m_list );
+            memset( m_list, 0, sizeof( Item )* cap );
+        }
+
+        m_capacity = cap;
+    }
+
+    inline void DeAlloc()
+    {
+        if( m_list != NULL )
+        {
+            //free( m_list );
+            delete [] m_list;
+            m_list = NULL;
+        }
+
+        m_capacity = 0;
+    }
+
+protected:
+    // array
+    Item* m_list;
+    // number of entries the array can hold
+    UINT m_capacity;
+    // number of entries added using PushBack() minus # removed using PopBack()
+    UINT m_size;
+};
+
+
+
+
+//-----------------------------------------------------------------------------
+// Name: class DidcvCalloutApplicant
+// Desc: abstract base class for processing DidcvCallout
+//-----------------------------------------------------------------------------
+class DidcvCalloutApplicant
+{
+public:
+    virtual ~DidcvCalloutApplicant() { }
+    virtual BOOL Apply( DidcvCallout* pCallout ) = 0;
+};
+
+
+
+
+//-----------------------------------------------------------------------------
+// Name: class DidcvCalloutSet
+// Desc: a group of DidcvCallout references
+//       A callout is the line drawn from each axis/button to a label
+//-----------------------------------------------------------------------------
+class DidcvCalloutSet
+{
+public:
+    DidcvCalloutSet();
+    ~DidcvCalloutSet();
+
+public:
+    BOOL  AddCallout( DidcvCallout* pCallout );
+    void  Apply( DidcvCalloutApplicant* pCalloutApp );
+    void  SetIdentifier( DWORD dwID );
+    DWORD GetIdentifier() const;
+    void  SetData( void* pData );
+    void* GetData() const;
+
+    const GwArray <DidcvCallout*> & GetInternalArrayRef() const;
+    void  TrimArrays();  
+
+protected:
+    void CleanUp();
+
+protected:
+    GwArray <DidcvCallout*> m_calloutList;
+    DWORD m_dwSetID;
+    void* m_lpData;
+};
+
+
+
+
+//-----------------------------------------------------------------------------
+// Name: class DidcvCalloutManager
+// Desc: data structure for storing and managing callouts
+//       A callout is the line drawn from each axis/button to a label
+//-----------------------------------------------------------------------------
+class DidcvCalloutManager
+{
+public:
+    DidcvCalloutManager();
+    ~DidcvCalloutManager();
+
+    // main interface
+    BOOL  AddCallout( DidcvCallout* pCallout, INT nView );
+    BOOL  SetCalloutState( const DidcvCalloutState* pCalloutState, DWORD dwObjID );
+    BOOL  SetAllCalloutState( const DidcvCalloutState* pCalloutState );
+    BOOL  SetActionMap( const LPDIACTION pAction, DWORD dwObjID );
+    void  ClearAllActionMaps();
+
+    // information
+    DWORD GetObjectIDByLocation( const LPPOINT pPt, INT nView );
+    BOOL  GetCalloutState( DidcvCalloutState* pCalloutState, DWORD dwObjID );
+    BOOL  GetActionMap( DidcvActionMap* pActionMap, DWORD dwObjID );
+    const DidcvCalloutSet* GetCalloutSetByView( INT nView ) const;
+    const DidcvCalloutSet* GetCalloutSetByObjID( DWORD dwObjID ) const;
+    const DidcvCalloutData* GetCalloutDataRef( DWORD dwObjID ) const;
+    UINT  GetNumUniqueCallouts() const;
+
+    BOOL  EnumObjects( LPDIRECTINPUTDEVICE8 pDevice, LPDIENUMDEVICEOBJECTSCALLBACK pCallback, LPVOID pvRef, DWORD dwMapOnly );
+    BOOL  CalcCanBeCollapsed();
+
+    // allocation
+    BOOL  SetCapacity( DWORD dwNumCallouts, DWORD dwNumUniqueObjID, DWORD dwNumViews, BOOL bDeleteContent = TRUE );
+    void  TrimArrays();
+    void  CleanUp();
+
+protected:
+    // helper functions
+    DidcvCalloutSet*  Find( const GwArray <DidcvCalloutSet*> & array, DWORD dwIdentifier ) const;
+    DidcvCalloutData* GetCalloutData( DWORD dwObjID ) const;
+
+protected:
+    // list of all callouts added
+    GwArray <DidcvCallout*> m_calloutList;
+    // list of callout sets, one for each unique callout id
+    GwArray <DidcvCalloutSet*> m_calloutSetListByObjID;
+    // list of callout sets, one for each view
+    GwArray <DidcvCalloutSet*> m_calloutSetListByView;
+};
+
+
+
+
+//-----------------------------------------------------------------------------
+// Name: struct DidcvCalloutData
+// Desc: data structure holding references to callout data components
+//-----------------------------------------------------------------------------
+struct DidcvCalloutData
+{
+    DidcvCalloutState* lpState;    // callout state info
+    DidcvActionMap* lpActionMap;   // action mapped this callout
+
+    DidcvCalloutData( DidcvCalloutState* s, DidcvActionMap* a )
+        : lpState( s ), lpActionMap( a )
+    { }
+};
+
+
+
+
+//-----------------------------------------------------------------------------
+// Name: struct DidcvCalloutState
+// Desc: state information for a callout
+//-----------------------------------------------------------------------------
+struct DidcvCalloutState
+{
+    // whether to draw
+    BOOL bDrawCallout;
+    BOOL bDrawOverlay;
+    BOOL bDrawHighlight;
+    BOOL bDrawEmptyCallout;
+    BOOL bDrawFullname;
+
+    // specifies which state is valid
+    DWORD dwFlags;
+
+    // --- member functions ---
+    DidcvCalloutState( DWORD f = 0, BOOL c = FALSE, BOOL o = FALSE, 
+        BOOL h = FALSE, BOOL e = FALSE, BOOL d = FALSE )
+        : dwFlags( f ), bDrawCallout( c ), bDrawOverlay( o ), bDrawHighlight( h ), 
+          bDrawEmptyCallout( e ), bDrawFullname( d )
+    { }
+
+    void SmartSet( const DidcvCalloutState* other );
+    void Copy( const DidcvCalloutState* other ) { *this = *other; }
+    DWORD MakeFlag() const;
+    void SetFlag( DWORD dwExtFlags );
+};
+
+
+
+
+//-----------------------------------------------------------------------------
+// Name: struct DidcvActionMap
+// Desc: action mapping information for a callout
+//-----------------------------------------------------------------------------
+struct DidcvActionMap
+{
+    DIACTION dia;
+
+    DidcvActionMap() { ZeroMemory( &dia, sizeof( DIACTION ) ); }
+    void Copy( const DidcvActionMap* other ) { this->dia = other->dia; }
+
+    LPCSTR GetActionName() const { return dia.lptszActionName; }
+};
+
+
+
+
+// utility functions
+void  DidcvPolyLineArrow( HDC hDC, const POINT* rgpt, INT nPoints, BOOL bDoShadow = FALSE );
+HFONT DidcvCreateFont( HDC hdc, const TCHAR* szFaceName, int iDeciPtHeight, int iDeciPtWidth, int iAttributes, BOOL fLogRes);
+
+
+
+
+//-----------------------------------------------------------------------------
+// Name: struct rgref
+// Desc: templated lightweight c-style array
+//-----------------------------------------------------------------------------
+template <class T>
+struct rgref {
+    rgref( T* p ) : pt( p ) {}
+
+    T & operator []( int i ) { return pt[i]; }
+    const T & operator []( int i ) const { return pt[i]; }
+
+private:
+    T *pt;
+};
+
+
+
+
+//-----------------------------------------------------------------------------
+// Name: struct SPOINT
+// Desc: used by line drawing routine
+//-----------------------------------------------------------------------------
+struct SPOINT {
+    SPOINT()
+#define SPOINT_INITIALIZERS \
+        p( u.p ), \
+        s( u.s ), \
+        a((( int* )( void* ) u.a ) ), \
+        x( u.p.x ), \
+        y( u.p.y ), \
+        cx( u.s.cx ), \
+        cy( u.s.cy )
+        : SPOINT_INITIALIZERS
+        { x = y = 0; }
+
+    SPOINT( int, POINT *r ) 
+        : p( *r ),
+          s( *(( SIZE* )( void* ) r ) ),
+          a((( int* )( void* ) r ) ),
+          x( r->x ),
+          y( r->y ),
+          cx( r->x ),
+          cy( r->y )
+    { }
+
+    SPOINT( const SPOINT & sp ) 
+        : SPOINT_INITIALIZERS
+    { p = sp.p; }
+
+    SPOINT( int b, int c ) 
+        : SPOINT_INITIALIZERS
+    { x = b; y = c; }
+
+    SPOINT( const POINT &point )
+        : SPOINT_INITIALIZERS
+    { p = point; }
+
+    SPOINT( const SIZE &size )
+        : SPOINT_INITIALIZERS
+    { s = size; }
+
+#undef SPOINT_INITIALIZERS
+
+    SPOINT operator =( const SPOINT &sp ) { p = sp.p; return *this; }
+    SPOINT operator =( const POINT &_p ) { p = _p; return *this; }
+    SPOINT operator =( const SIZE &_s ) { s = _s; return *this; }
+
+    operator POINT() const { return p; }
+    operator SIZE() const { return s; }
+
+    long &x, &y, &cx, &cy;
+    POINT &p;
+    SIZE &s;
+    rgref<int> a;
+
+private:
+    union {
+        POINT p;
+        SIZE s;
+        int a[2];
+    } u;
+};
+
+
+
+
+//-----------------------------------------------------------------------------
+// Name: class DidcvBitmap
+// Desc: object containing a bitmap
+//-----------------------------------------------------------------------------
+class DidcvBitmap
+{
+public:
+    ~DidcvBitmap();
+
+    // drawing interface
+    BOOL Draw( HDC hDC, INT xStart, INT yStart);
+    BOOL Blend( HDC hDC, INT xStart, INT yStart );
+    BOOL Blend( VOID* lpBits, INT xStart, INT yStart, INT width, INT height );
+
+    // information
+    BOOL GetSize( SIZE* lpSize ) const;
+    HBITMAP GetHandle();
+    LPVOID GetBits();
+
+public:
+    // static function for instantiating a DidcvBitmap
+    static DidcvBitmap* Create( LPCTSTR tszFilename );
+    static DidcvBitmap* Create( INT width, INT height );
+
+private:
+    // private constructor
+    DidcvBitmap();
+
+protected:
+    // helper functions
+    void CleanUp();
+    void FigureSize();
+
+    static DidcvBitmap* CreateViaD3dx( LPCTSTR tszFilename );
+    static DidcvBitmap* CreateViaLoadImage( HINSTANCE hinst, LPCTSTR tszName, 
+        UINT uType, int cx, int cy, UINT fuLoad );
+
+protected:
+    // GDI handle to bitmap
+    HBITMAP m_hbitmap;
+    VOID* m_lpBits;
+    SIZE m_size;
+};
+
+
+
+
+// alpha blending information
+#define DIDCV_ALPHABLEND_DLL_NAME   TEXT( "MSIMG32.DLL" )
+#define DIDCV_ALPHABLEND_PROC_NAME  TEXT( "AlphaBlend" )
+
+#if( WINVER >= 0x400 )
+  typedef WINGDIAPI BOOL( WINAPI* DIDCV_ALPHABLEND )( HDC, int, int, int, int, HDC, int, int, int, int, BLENDFUNCTION );
+#else
+  typedef DIDCV_ALPHABLEND DWORD
+#endif
+
+//-----------------------------------------------------------------------------
+// Name: class DidcvAlphaBlend
+// Desc: utility class for alpha blending
+//-----------------------------------------------------------------------------
+class DidcvAlphaBlend
+{
+public:
+    // reference counting interface
+    static BOOL AddClient();
+    static BOOL ReleaseClient();
+
+    // functions to perform blending
+    static BOOL Blend( HDC hDC, INT xStart, INT yStart, INT width, INT height, HBITMAP hbitmap, const SIZE* lpSize );
+    static BOOL Blend( VOID* lpDestBits, INT xStart, INT yStart, INT destWidth, INT destHeight, VOID* lpSrcBits, INT srcWidth, INT srcHeight );
+
+protected:
+    static DIDCV_ALPHABLEND s_alphaBlendProc;
+    static HMODULE s_hDll;
+    static DWORD s_dwNumClients;
+
+};
+
+
+
+
+#endif // #ifndef __DIDCV_H__

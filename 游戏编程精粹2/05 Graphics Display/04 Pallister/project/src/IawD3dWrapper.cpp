@@ -392,5 +392,127 @@ double IawD3dWrapper::GetTime()
   if(mHighPerf)
   {
     LARGE_INTEGER cnt;
-    Que ÌÌÌÌÌÌÌÌÌÌÌÌÌÌƒìSW‹ù‹GH3Û;Ãt[ƒÀPÿ(p ‹GHƒÀ Pÿ p ¸   9GDtG‹OHƒÁ Qÿ˜p ‹H;ût&WRÿ,p …Àu‹‹P‹ÏÿÒWèİÿÿWè|	  ƒÄ_¸   [ƒÄÂ G<‹GHƒÀ Pÿ˜p Vj è	  ‹ğƒÄ;ó„³   F‰‰^‰^‰^‰^‰F‰ ‹O@U‹l$$‰^‰\$]!S‰L$èî  ƒÄ…À‰…‰   X‹F…ÀtPÿ¨p ÇF    ‹…ÀtPèê  ƒÄÇ    …Û]u‹GHVPèÈèÿÿ‹Ø‹F…ÀtPÿ¨p ‹…Àt	Pè¶  ƒÄVè§  ƒÄèûğÿÿ^_‹Ã[ƒÄÂ »   èæğÿÿ^_‹Ã[ƒÄÂ ‹T$ URƒÀ Pèp  ‹ÆD(  ‹‰i‹‰Z‹‹T$(Ç@   ‹‰Q‹‹L$‰‹3À‰B‹ƒÄhÜ“ ‰Aÿ(p ‹‹\$‰BéBÿÿÿÌÌÌÌÌÌÌÌÌU‹ìƒäøjÿh¨` d¡    Pƒì0SVW¡ 3ÄPD$@d£    ‹ù3öD$ ‹È‰t$‰t$(‰t$,‰t$0‰t$4‰D$$‰L$ ‰t$H‹GH;Æt[ƒÀPÿ(p ‹GHƒÀ Pÿ p ¸   9GDtD‹GHƒÀ Pÿ˜p ‹H;şt&WRÿ,p ;Æu‹‹P‹ÏÿÒWèñÚÿÿWè_  ƒÄ»   éŒ   G<‹GHƒÀ Pÿ˜p ‹G@‰t$8‰t$‹u^!S‰D$è   ƒÄ…À‰D$…‘   ‹L$(…ÉXtQÿ¨p ‹D$ÇD$(    …ÀtPèö  ƒÄ3À‰D$…Ûu‹MT$‰H‹GHRPèËæÿÿ‹Øè$ïÿÿ3öÇD$Hÿÿÿÿ‹D$(;ÆtPÿ¨p ‹D$;Æt	Pè§  ƒÄ‹Ã‹L$@d‰    Y_^[‹å]Â ‹MVQƒÀ Pèy  ‹T$(ÆD2  ‹D$(‰p‹L$(‰Y‹T$(3À‰B‹L$(‹U‰Q‹L$(‹T$ ‰‹L$(‹U‰Q‹L$(ƒÄhÜ“ ‰Aÿ(p ‹T$‹\$‰B‹D$é+ÿÿÿÌÌÌÌÌÌÌÌÌÌÌÌÌÌU‹ìƒäøjÿhx` d¡    Pƒì(SVW¡ 3ÄPD$8d£    ‹ù3ÛD$‹È‰\$‰\$ ‰\$$‰\$(‰\$,‰D$‰L$‰\$@‹GH;Ãt[ƒÀPÿ(p ‹GHƒÀ Pÿ p ¸   9GDtA‹GHƒÀ Pÿ˜p ‹H;ût&WRÿ,p ;Ãu‹‹P‹ÏÿÒWèáØÿÿWèO  ƒÄ¾   ëWG<‹GHƒÀ Pÿ˜p ‹E‹M‹UPQRS‹]‹‹KPQt$,è¡  ‹ğ…öu‹S‹D$L$‰P‹WHQRèóäÿÿ‹ğèLíÿÿ3ÛÇD$@ÿÿÿÿ‹D$ ;ÃtPÿ¨p ‹D$;Ãt	PèÏ  ƒÄ‹Æ‹L$8d‰    Y_^[‹å]Â ÌÌÌÌÌÌÌÌÌÌÌU‹ìƒäøjÿhx` d¡    Pƒì(SVW¡ 3ÄPD$8d£    ‹ù3ÛD$‹È‰\$‰\$ ‰\$$‰\$(‰\$,‰D$‰L$‰\$@‹GH;Ãt[ƒÀPÿ(p ‹GHƒÀ Pÿ p ¸   9GDtD‹GHƒÀ Pÿ˜p ‹H;ût&WRÿ,p ;Ãu‹‹P‹ÏÿÒWè×ÿÿWèï  ƒÄ¾   é‰   G<‹GHƒÀ Pÿ˜p ‹w@j!‰\$‰\$4è™  ƒÄ;Ã‰D$…—   ‹L$ ;Ë¾   tQÿ¨p ‹D$‰\$ ;ÃtPè‘  ƒÄ3À‰D$;óu ‹U‰P‹E‹L$T$‰A‹GHRPè\ãÿÿ‹ğèµëÿÿÇD$@ÿÿÿÿ‹D$ ;ÃtPÿ¨p ‹D$;Ãt	Pè:  ƒÄ‹Æ‹L$8d‰    Y_^[‹å]Â SƒÀ SPè  ‹D$ ˆX ‹L$ ‰Y‹T$ ÇB!   ‹D$ ‰X‹L$ ‰Y‹T$ ‹M‰2‹D$ ‰H‹T$ ƒÄhÜ“ ‰Zÿ(p ‹L$‹t$‰A‹D$é-ÿÿÿÌÌÌÌÌÌÌÌÌÌÌV‹t$…öt‹FPè˜  VèŒ  ƒÄ^Â Ì‹D$…ÀtPè|  YÂ ÌÌÌÌÌÌÌÌÌÌÌÌÌÌW‹ù‹Çè6êÿÿ…Àu	¸   _Â VwVÿ p ƒ Vtÿ˜p èŒêÿÿ^¸Ó  _Â ‹D$‰GÇG    ÿ˜p èiêÿÿ^3À_Â ÌÌW‹ù‹ÇèÖéÿÿ…Àu	¸   _Â VwVÿ p ƒ Vtÿ˜p è,êÿÿ^¸Ó  _Â ‹D$‹L$ÇG    ‰G‰Oÿ˜p èêÿÿ^3À_Â ÌÌÌÌÌÌÌÌÌÌÌ‹F…ÀtPÿ¨p ‹…ÀtPè€  YÃÌÌÌÌQ‹L$SU3Û3í;ËW~‹D$$ƒÀ(ƒÀƒéuö}!W‰^‰|$è  ƒÄ;Ã‰u¿   ë$öD$tHSSSSÿ0p ;Ã‰Fu7ÿ4p ‹ø;ût"‹F;Ãt
-Pÿ¨p ‰^‹;ÃtPèø   ƒÄ‰‹Ç_][YÂ 9\$(~7‹|$$‹D$(ƒÇ‰D$(‹‹Wü‹QRL Qè¼	  ƒÄƒÇƒl$(uŞ‹|$3Û‹ÆD*  ‹‰h‹‹D$‰y‹‰B‹‹T$ ‰Q‹‹L$‰‹‹D$‰B‹hÜ“ ‰Yÿ(p ‹_]‰B3À[YÂ Ì¸   Â VW‹|$ëWè"   …ÀYtWè   ‹ğ…öYtè_‹Æ^ÃéÖÿÿÿÿ%Lq ÿ%Hq ; uóÃé£  Ìÿ%Dq ÿ%@q ÿ%<q SŠ\$öÃV‹ñt$
+    QueryPerformanceCounter(&cnt);
+    return ((double)*(__int64 *)&cnt) / mFreq;
+  }
+  else
+  {
+    return ((double)timeGetTime()) / 1000.0f;
+  }
+}
+
+void IawD3dWrapper::Clear(DWORD targets)
+{
+  if(mpDevice)
+    mpDevice->Clear(0, NULL, targets, mColBackground, 1.0, 0);
+}
+
+void IawD3dWrapper::StartFrame()
+{
+  if(mpDevice)
+    mpDevice->BeginScene();
+}
+
+void IawD3dWrapper::EndFrame()
+{
+  if(mpDevice)
+  {
+    mpDevice->EndScene();
+    mpDevice->Present(NULL, NULL, NULL, NULL);
+  }
+}
+
+void IawD3dWrapper::SetFrameTime(float frameTime)
+{
+  mFrameTime = frameTime;
+}
+
+HRESULT IawD3dWrapper::Resize()
+{
+  RECT rc;
+  HRESULT hr;
+  
+  GetWindowRect(mRenderWindow, &rc);
+  hr = Initialize(mCurrentAdapterNumber, mCurrentMode, mFullScreen, rc.left,
+                  rc.top, rc.right - rc.left, rc.bottom - rc.top, mBpp,
+                  mBackBufferCount, mUseZBuffer);
+  return hr;
+}
+
+int IawD3dWrapper::GetNumAdapters()
+{
+  int cnt = 0;
+  IawDisplayAdapter* temp_adapter = mpFirstDisplayAdapter;
+  while (temp_adapter!=NULL)
+  {
+    cnt++;
+    temp_adapter = temp_adapter->mpNext;
+  }
+  return cnt;
+}
+
+
+IawDisplayAdapter* IawD3dWrapper::GetAdapter(int adapterNum)
+{
+  int cnt = 0;
+  IawDisplayAdapter* temp_adapter = mpFirstDisplayAdapter;
+  while (temp_adapter != NULL)
+  {
+    if (cnt == adapterNum)
+      return temp_adapter;
+    
+    cnt++;
+    temp_adapter = temp_adapter->mpNext;
+  }
+  return NULL;
+}
+
+int IawD3dWrapper::GetNumModes()
+{
+  IawDisplayAdapter* temp_adapter = mpFirstDisplayAdapter;
+  while (temp_adapter != NULL)
+  {
+    if (temp_adapter->mAdapterNum == mCurrentAdapterNumber)
+    {
+      int cnt = 0;
+      IawDisplayMode* temp_mode = temp_adapter->mpFirstDisplayMode;
+      while (temp_mode != NULL)
+      {
+        cnt++;
+        temp_mode = temp_mode->mpNext;
+      }
+      return cnt++;
+    }
+    temp_adapter = temp_adapter->mpNext;
+  }
+  return 0;
+}
+
+
+IawDisplayMode* IawD3dWrapper::GetMode(int modeNum)
+{
+  int adapter_cnt = 0;
+  
+  IawDisplayAdapter* temp_adapter = mpFirstDisplayAdapter;
+  
+  while (temp_adapter!=NULL)
+  {
+    if (temp_adapter->mAdapterNum == mCurrentAdapterNumber)
+    {
+      int cnt = 0;
+      IawDisplayMode *temp_mode = temp_adapter->mpFirstDisplayMode;
+      while (temp_mode != NULL)
+      {
+        if (cnt == modeNum)
+          return temp_mode;
+        cnt++;
+        temp_mode = temp_mode->mpNext;
+      }
+    }
+    
+    adapter_cnt++;
+    temp_adapter = temp_adapter->mpNext;
+  }
+  return NULL;
+}
+

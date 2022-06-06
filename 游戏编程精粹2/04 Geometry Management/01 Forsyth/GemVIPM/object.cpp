@@ -2867,72 +2867,7 @@ struct SkiplistCollapseRecord
 {
 	WORD	wKeptVert;			// The offset of the vertex that doesn't vanish/appear
 	BYTE	bNumChanges;		// How many entries in wIndexOffset[].
-	BYTE	bPrevNumChanges;	// How many entries in wIndexOffset[] in the previous action.
-
-	// This will be of actual length bNumChanges,
-	// then immeditaely after in memory will be another record.
-	WORD	wIndexOffset[];		// The offsets of the indices to change.
-
-
-	// And some helpful list-scanners. These will return NULL if at the start/end of the list.
-	SkiplistCollapseRecord *Prev ( void )
-	{
-		SkiplistCollapseRecord *pRecord = this;
-		if ( pRecord->bPrevNumChanges == (BYTE)-1 )
-		{
-			// Start of the list.
-			return ( NULL );
-		}
-
-		int iPrevNumChanges = (int)( pRecord->bPrevNumChanges );
-		// Skip over the previous change list.
-		pRecord = (SkiplistCollapseRecord *)((WORD *)pRecord - iPrevNumChanges );
-		// Skip over the previous record body.
-		pRecord--;
-
-		// A quick check - these need to agree up and down the list.
-		ASSERT ( iPrevNumChanges == (int)( pRecord->bNumChanges ) );
-
-		return ( pRecord );
-	}
-
-	SkiplistCollapseRecord *Next ( void )
-	{
-		SkiplistCollapseRecord *pRecord = this;
-		if ( pRecord->bNumChanges == (BYTE)-1 )
-		{
-			// End of the list.
-			return ( NULL );
-		}
-
-		int iNumChanges = (int)( pRecord->bNumChanges );
-		// Skip over the record body.
-		pRecord++;
-		// Skip over the change list.
-		pRecord = (SkiplistCollapseRecord *)((WORD *)pRecord + iNumChanges );
-
-		// A quick check - these need to agree up and down the list.
-		ASSERT ( iNumChanges == (int)( pRecord->bPrevNumChanges ) );
-
-		return ( pRecord );
-	}
-
-};
-
-
-// A structure that holds data about each level of the skiplist.
-struct SkiplistLevelInfo
-{
-	int							iNumTris;			// Number of tris. Does not change due to collapses.
-	int							iNumCollapses;		// Total number of collapses in level.
-
-	int							iNumVertsMax;		// Number of verts when level uncollapsed
-	ArbitraryList<WORD>			wIndicesMax;		// Uncollapsed index list.
-
-	int							iNumVertsMin;		// Number of verts when level fully collapsed
-	ArbitraryList<WORD>			wIndicesMin;		// Fully collapsed index list.
-
-	ArbitraryList<BYTE>			pbCollapseRecords;	// The memory that will store the SkiplistCollapseRecords.
+	BYTE	bPrevNumChanges;                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                s;	// The memory that will store the SkiplistCollapseRecords.
 	// SCRs are stored in a list, first first, last last, with a dummy last entry.
 	// The current pointer will point to the collapse that has already happened.
 	// So if the current level is completely collapsed, the pointer will point to the dummy last

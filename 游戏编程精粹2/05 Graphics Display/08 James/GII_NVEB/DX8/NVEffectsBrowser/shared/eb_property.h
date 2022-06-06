@@ -306,4 +306,183 @@ public:
 			}
 
 			delete itrProperties->second;
-			m_mapProperties.erase(itr  €       ' _sims2.exe:D3DOGL_67207556' H' Èÿÿÿvk   €       ' _sims2ep1.exe:D3DOGL_67207556' Èÿÿÿvk   €       ' _sims2sp1.exe:D3DOGL_67207556+' Èÿÿÿvk   €       ' _sims2ep2.exe:D3DOGL_67207556' Èÿÿÿvk   €       ' _sims2ep3.exe:D3DOGL_67207556' Èÿÿÿvk   €	 @     ' _sar2007.exe:D3DOGL_67207556Xr' ¸ÿÿÿvk-   € @    ' _Sniper Elite/SniperElite.exe:D3DOGL_67207556Ž' Èÿÿÿvk   €       ' _sof2.exe:OGL_TexClampBehavior' Èÿÿÿvk    €       ' _sof2mp.exe:OGL_TexClampBehaviorÈÿÿÿvk   €       ' _sof2.exe:D3DOGL_67207556ˆ' €ˆ' Èÿÿÿvk   €         _sof2mp.exe:D3DOGL_67207556     Èÿÿÿvk   €         _soldiers.exe:D3DOGL_67207556   Àÿÿÿvk'   € C      _soeldnersecretwars.exe:D3DOGL_67207556 Èÿÿÿvk    €	 @      _sonicriders.exe:D3DOGL_67207556Àÿÿÿvk$   €	 @      _sonicridersdemo.exe:D3DOGL_67207556    Àÿÿÿvk$   €         _neowiz/launcher.exe:D3DOGL_67207556    Èÿÿÿvk   €         _spellforce.exe:D3DOGL_67207556 Èÿÿÿvk    € @       _spellforce2.exe:D3DOGL_67207556Èÿÿÿvk    €	D@      _scda_online.exe:D3DOGL_67207556Èÿÿÿvk   €       ' _prey.exe:D3DOGL_67207556»' ¼' Ðÿÿÿvk   €      ' _prey.exe:OGL_18920725' Èÿÿÿvk   €C    ' _-007.exe:D3DOGL_67207556( ¨( Èÿÿÿvk   €C    ( _POP3.exe:D3DOGL_67207556à' ˜à' Ðÿÿÿvk   €C    ' _PoP.exe:D3DOGL_67207556Èÿÿÿvk   €C    ' _PoP2.exe:D3DOGL_67207556æ' ç' Àÿÿÿvk#   €C    ' _PrinceofPersia.exe:D3DOGL_67207556 ˜ê' Ðÿÿÿvk   €À    ' _pcm.exe:D3DOGL_67207556       hbin 1                        ¸ÿÿÿvk/   €          _shadowstrike_static_retail.exe:D3DOGL_70835937 Àÿÿÿvk!   €          _splintercell.exe:D3DOGL_70835937       ¸ÿÿÿvk/   €         _shadowstrike_static_retail.exe:D3DOGL_67207556 Àÿÿÿvk!   €         _splintercell.exe:D3DOGL_67207556       ¸ÿÿÿvk/   €         _shadowstrike_static_retail.exe:D3DOGL_64877940 Àÿÿÿvk!   €         _splintercell.exe:D3DOGL_64877940       Àÿÿÿvk"   €          _splintercell3.exe:D3DOGL_70835937      Àÿÿÿvk"   €	 @      _splintercell3.exe:D3DOGL_67207556      Àÿÿÿvk"   €         _splintercell3.exe:D3DOGL_64877940      Èÿÿÿvk   €   €      _splintercell3.exe:D3D_32661390 Àÿÿÿvk"   €	 @      _splintercell4.exe:D3DOGL_67207556      Èÿÿÿvk   €         _pandora.exe:D3DOGL_67207556    Àÿÿÿvk"   €         _splintercell2.exe:D3DOGL_67207556      Èÿÿÿvk   €         _jk2sp.exe:OGL_TexClampBehavior Èÿÿÿvk   €         _jk2mp.exe:D3DOGL_67207556      Èÿÿÿvk   €         _jk2sp.exe:D3DOGL_67207556      Èÿÿÿvk   €         _jk2mp.exe:OGL_App_SupportBits  Èÿÿÿvk   €         _jk2sp.exe:OGL_App_SupportBits  Èÿÿÿvk   €         _swkotor.exe:D3DOGL_67207556    Èÿÿÿvk   €         _swkotor2.exe:D3DOGL_67207556   Àÿÿÿvk'   €@      _swrepubliccommando.exe:D3DOGL_67207556 Èÿÿÿvk    € @      _starwolves2.exe:D3DOGL_67207556Àÿÿÿvk%   € @      _starwolves2_demo.exe:D3DOGL_67207556   Àÿÿÿvk"   €"À       _battlefrontii.exe:D3DOGL_67207556      ¸ÿÿÿvk0   €‰ @       _Stargate SG-1 WIP/system/uw.exe:D3DOGL_67207556Èÿÿÿvk   € @      _stgame.exe:D3DOGL_67207556     Ðÿÿÿvk   €       _sm.exe:D3DOGL_67207556 Èÿÿÿvk   €       _sm_release.exe:D3DOGL_67207556 Èÿÿÿvk    €         _stokedrider.exe:D3DOGL_67207556Èÿÿÿvk   €         _stolen.exe:D3DOGL_67207556     Èÿÿÿvk   € @      _Stranger.exe:D3DOGL_67207556   Àÿÿÿvk!   € @      _Strangerdemo.exe:D3DOGL_67207556       Ðÿÿÿvk   €	 Ã      _srs.exe:D3DOGL_67207556Èÿÿÿvk    €         _stronghold2.exe:D3DOGL_67207556Àÿÿÿvk&   € @      _strongholdlegends.exe:D3DOGL_67207556  Èÿÿÿvk    €         _Stubbs Demo.exe:D3DOGL_67207556Èÿÿÿvk   €         _Stubbs.exe:D3DOGL_67207556     Àÿÿÿvk!   €	 @      _suddenattack.exe:D3DOGL_67207556       Ðÿÿÿvk   €
+			m_mapProperties.erase(itrProperties);
+		}
+	}
+
+	virtual EBProperty* GetFirstProperty()
+	{
+		m_itrProperties = m_mapProperties.begin();
+		if (m_itrProperties != m_mapProperties.end())
+			return (*m_itrProperties).second;
+
+		return NULL;
+	}
+
+	virtual EBProperty* GetNextProperty()
+	{
+		if (m_itrProperties == m_mapProperties.end())
+			return NULL;
+
+		m_itrProperties++;
+		if (m_itrProperties != m_mapProperties.end())
+			return (*m_itrProperties).second;
+		
+		return NULL;
+	}
+
+	virtual void PropertyWritten(EBProperty* pProperty)
+	{
+		assert(pProperty);
+		if (pProperty->GetFlags() & PROPFLAG_CALLBACK)
+		{
+			PropertyUpdateCallback(pProperty, true);
+		}
+	}
+
+	virtual void PropertyRead(EBProperty* pProperty)
+	{
+		assert(pProperty);
+		if (pProperty->GetFlags() & PROPFLAG_CALLBACK)
+		{
+			PropertyUpdateCallback(pProperty, false);
+		}
+	}
+
+private:
+
+	t_mapProperties m_mapProperties;
+	mutable t_mapProperties::const_iterator m_itrProperties;
+};
+
+
+class EBEnumValue : public EBProperty
+{
+public:
+	EBEnumValue(EBEnumProperty* pParent, const EBString& strName, const EBValue& Value, EBPropertyType EnumType)
+	: EBProperty(strName, -1, EnumType, PROPFLAG_ENUMSTATIC), 
+		m_Value(Value),
+		m_pParent(pParent)
+	{
+	}
+
+	virtual ~EBEnumValue()
+	{
+
+	} 
+
+	virtual void WriteValue(EBPropertySet* pObj, const EBValue& Value)
+	{
+		assert(0);
+	}
+
+	virtual EBValue ReadValue(EBPropertySet* pObj)
+	{
+		assert(0);
+		return EBValue((DWORD)0);
+	}
+
+	virtual EBValue GetValue() const { return m_Value; }
+	virtual EBEnumProperty* GetParent() const { return m_pParent; }
+
+protected:
+	EBEnumProperty* m_pParent;
+	EBValue m_Value;
+};
+
+class EBTriggerProperty : public EBProperty
+{
+public:
+	EBTriggerProperty(const EBString& strName, DWORD dwPropFlags = (PROPFLAG_PUBLIC | PROPFLAG_CALLBACK))
+	: EBProperty(strName, -1, EBTYPE_TRIGGER_PROP, dwPropFlags)
+	{
+	}
+
+	virtual void WriteValue(EBPropertySet* pObj, const EBValue& Value)
+	{
+		assert(0);
+	}
+
+	virtual EBValue ReadValue(EBPropertySet* pObj)
+	{
+		assert(0);
+		return EBValue((DWORD)0);
+	}
+
+	virtual void Trigger(EBPropertySet* pObj);
+};
+
+// A property which holds a list of enumeration values
+typedef std::list<EBEnumValue*> t_listEnum;
+class EBEnumProperty : public EBProperty
+{
+public:
+	EBEnumProperty(const EBString& strName, DWORD dwOffset, EBPropertyType Type, DWORD dwPropertyFlags = PROPFLAG_PUBLIC)
+		: EBProperty(strName, dwOffset, EBTYPE_ENUM_PROP, dwPropertyFlags),
+			m_EnumType(Type)
+	{
+	}
+
+	virtual ~EBEnumProperty()
+	{
+		DiscardProperty();
+	}
+
+	virtual void WriteValue(EBPropertySet* pObj, const EBValue& Value)
+	{
+		assert(Value.IsKindOf(m_EnumType));
+		if (!Value.IsKindOf(m_EnumType))
+			return;
+
+		// Search for the matching value in the enum.  If it's found allow it to be written
+		t_listEnum::const_iterator itrEnum = m_listEnum.begin();
+		while (itrEnum != m_listEnum.end())
+		{
+			EBValue EnumVal = (*itrEnum)->GetValue();
+			if (EnumVal == Value)
+			{
+				Value.Write((BYTE*)pObj + m_dwOffset);
+				pObj->PropertyWritten(this);
+				return;
+			}
+			itrEnum++;
+		}
+	
+		return;
+	}
+
+	virtual EBValue ReadValue(EBPropertySet* pObj)
+	{
+		EBValue Value(m_EnumType);
+		Value.Read((BYTE*)pObj + m_dwOffset);
+
+		pObj->PropertyRead(this);
+
+		return Value;
+	}
+
+	virtual bool EBEnumProperty::AddEnumerant(EBEnumValue* pVal)
+	{
+		m_listEnum.push_back(pVal);
+		return true;
+	}
+	
+	// We override DiscardProperty here to clean ourselves up.
+	virtual void DiscardProperty()
+	{
+		while(!m_listEnum.empty())
+		{
+			EBProperty* pVal = m_listEnum.back();
+			pVal->DiscardProperty();
+			delete pVal;
+			m_listEnum.pop_back();
+		}
+	}
+
+	virtual const t_listEnum& GetEnumerants() const { return m_listEnum; }
+
+	t_listEnum m_listEnum;
+	EBPropertyType m_EnumType;
+};
+
+#endif // __EBPROPERTY_H

@@ -446,4 +446,95 @@ HRESULT NVMesh::Render( NVDevice* pDevice, BOOL bDrawOpaqueSubsets,
 
             RenderPart(pDevice, i);
         }
-    w9y<v9q<s‰q<‹0‹A<+ÆÑø‰‹A‹ f‹ ëfÿÿ^[_Ã3ÀöD$ujXöD$uƒÈÂ AÃAÃAÃAÃAÃAÃ3À9AP•ÀÃ‹ÿV‹ñ‹F‹…Ét‹V,‹ ‹Ð;Âs¶^ÃW‹>‹ÎÿWP‹ÎÿW_^Ã‹ÿV‹ñ‹FP…Àtÿt$j ÿt$Pÿ(ÀvƒÄ…Àu‹Æë3À^Â 3À9AP•ÀÃ‹ÿV‹ñ‹F‹…Ét‹V,‹ ‹P;Âsf‹^ÃW‹>‹ÎÿW‹ÎPÿW_^Ã‹ÿV‹ñ‹FP…Àt‹L$ÉQj ÿt$Pÿ(ÀvƒÄ…Àu‹Æë3À^Â ‹AP…ÀtPÿ,Àv…ÀY}ƒÈÿÃ3ÀÃAÃ3À9AX•ÀÃAÃ3À9AX•ÀÃAÃ3À9AT•ÀÃAÃ3À9AT•ÀÃAÃ3À9A\•ÀÃAÃ3À9A\•ÀÃ‹ÿ`‹ÿ`‹ÿ`ÿt$‹ÿP ‹D$Â ÿt$‹ÿP$‹D$Â jXÃ‹ÿV‹ñÿvÇØnvè(‘ÿÿÿvè ‘ÿÿÿvè‘ÿÿÿvè‘ÿÿƒÄÇLÂv^ÃŠAÃŠAÃ‹AÃ‹I ‹D$‰Â ‹I$‹D$‰Â ‹ÿU‹ì€y( uBŠE¨þu;ŠMöÁþu3€} |-€}'þÈöØÀƒàØƒÀ(þÉöÙÉƒáìƒÁÁ¾M„hqvë¸`qvjPÿuè¥œÿÿƒÄ]Â ‹ÿ`‹ÿ`‹ÿ`ÿt$‹ÿP ‹D$Â ÿt$‹ÿP$‹D$Â jXÃ‹ÿV‹ñÿvÇŒÇvèöÿÿÿvèîÿÿÿvèæÿÿÿvèÞÿÿƒÄÇLÂv^Ãf‹AÃf‹AÃ‹AÃ‹I ‹D$‰Â ‹I$‹D$‰Â ‹ÿU‹ì€y( uBŠE¨þu;ŠMöÁþu3€} |-€}'þÈöØÀƒàØƒÀ(þÉöÙÉƒáìƒÁÁ¾M„hqvë¸`qvjPÿuèq›ÿÿƒÄ]Â jXÃjXÃjXÃjXÃ‹ÿU‹ìÿu(‹ÿu$ÿu ÿuÿuÿuÿuÿuÿuÿP‹E]Â$ ‹ÿU‹ìÿu(‹ÿu$ÿu ÿuÿuÿuÿuÿuÿuÿP‹E]Â$ jXÃÇLÂvÃÂ ‹ÿU‹ìÿu(‹ÿu$ÿu ÿuÿuÿuÿuÿuÿuÿP‹E]Â$ ‹ÿU‹ìÿu(‹ÿu$ÿu ÿuÿuÿuÿuÿuÿuÿP‹E]Â$ jXÃÇLÂvÃÂ ‹ÿU‹ìÝE ‹QQÝ$ÿuÿuÿuÿuÿuÿuÿP‹E]Â  ‹ÿU‹ìÿu ‹ÿuÿuÿuÿuÿuÿuÿP‹E]Â jXÃÇLÂvÃÂ ‹ÿU‹ìÝE ‹QQÝ$ÿuÿuÿuÿuÿuÿuÿP‹E]Â  ‹ÿU‹ìÿu ‹ÿuÿuÿuÿuÿuÿuÿP‹E]Â jXÃÇLÂvÃÂ ‹ÿ`‹ÿU‹ìÿu$‹ÿu ÿuÿuÿuÿuÿuÿuÿP‹E]Â  ‹ÿU‹ìÿu$‹ÿu ÿuÿuÿuÿuÿuÿuÿP‹E]Â  ‹ÿU‹ìÿu$‹ÿu ÿuÿuÿuÿuÿuÿuÿP‹E]Â  ‹ÿU‹ìÿu$‹ÿu ÿuÿuÿuÿuÿuÿuÿP‹E]Â  ‹ÿU‹ìÿu$‹ÿu ÿuÿuÿuÿuÿuÿuÿP‹E]Â  jXÃ‹ÿV‹ñÿvÇÌÇvèŒÿÿÿvè ŒÿÿYYÇLÂv^ÃjXÃ‹ÿ`‹ÿU‹ìÿu$‹ÿu ÿuÿuÿuÿuÿuÿuÿP‹E]Â  ‹ÿU‹ìÿu$‹ÿu ÿuÿuÿuÿuÿuÿuÿP‹E]Â  ‹ÿU‹ìÿu$‹ÿu ÿuÿuÿuÿuÿuÿuÿP‹E]Â  ‹ÿU‹ìÿu$‹ÿu ÿuÿuÿuÿuÿuÿuÿP‹E]Â  ‹ÿU‹ìÿu$‹ÿu ÿuÿuÿuÿuÿuÿuÿP‹E]Â  jXÃ‹ÿV‹ñÿvÇ ÈvèÜŠÿÿÿvèÔŠÿÿYYÇLÂv^ÃjXÃ‹ÿU‹ìÿu ‹ÿuÿuÿuÿuÿuÿuÿP‹E]Â jXÃ‹ÿV‹ñÿvÇ4ÈvÿlÀvYÇLÂv^Ã‹ÿU‹ìVE‹ñ‹MPèD³ÿÿ‹‰Nƒ  ÿuÿlÀvY^]Â ‹ÿU‹ìÿu ‹ÿuÿuÿuÿuÿuÿuÿP‹E]Â jXÃ‹ÿV‹ñÿvÇTÈvÿlÀvYÇLÂv^Ã‹ÿU‹ìVE‹ñ‹MPè¾²ÿÿ‹‰Nƒ  ÿuÿlÀvY^]Â ‹ÿ`‹ÿ`3À@ÃÇLÂvÃ‹ÿV‹ñè· ‰F‰V^Â ƒÁQÿt$ÿt$ÿt$ÿt$èåµ ƒÄÂ ‹L$3Àë‹ÐÁàÁêÐ¾ÂA;L$uêÂ ‹ÿ`‹ÿ`3À@ÃÇLÂvÃ‹ÿV‹ñè“¶ ‰F‰V^Â ‹L$3Àë‹ÐÁàÁêÐ·ÂAA;L$uéÂ 
+    }
+
+    return S_OK;
+}
+
+HRESULT NVMesh::RenderPart(NVDevice* pDevice, DWORD dwPart)
+{
+	D3DXATTRIBUTERANGE* pAttrib = &m_pAttributeTable[dwPart];
+	if (!pAttrib)
+		return E_FAIL;
+
+	// Tell the device the part we are rendering
+	pDevice->SetRenderPart(dwPart);
+
+	// Set the material for this part
+    pDevice->SetMaterial(&m_pMaterials[dwPart] );
+
+	// Set the texture for this part
+	if (m_pTexture != NULL)
+	{
+		pDevice->SetTexture(0, m_pTexture);
+	}
+	else
+	{
+		if(m_pTextures[dwPart] != NULL)
+			pDevice->SetTexture(0, m_pTextures[dwPart] );
+		else
+			pDevice->SetTexture(0, NULL);
+	}
+         
+	// Set the vertex shader for this mesh
+	if (m_dwVertexShader == 0)
+		pDevice->SetVertexShader(m_pLocalMesh->GetFVF());
+	else
+		pDevice->SetVertexShader(m_dwVertexShader);
+
+	// Setup the stream and index buffers for the mesh
+	pDevice->SetStreamSource(0, m_pVB, m_dwStride);
+	pDevice->SetIndices(m_pIB, 0);
+
+	// Draw it.
+	pDevice->DrawIndexedPrimitive(D3DPT_TRIANGLELIST, pAttrib->VertexStart, pAttrib->VertexCount, pAttrib->FaceStart * 3, pAttrib->FaceCount);
+
+	return S_OK;
+}
+
+// Transforms bounding info by a matrix.
+NVBounds::Transform(const D3DXMATRIX* pMatrix)
+{
+	NVBounds Transformed;
+
+	D3DXVECTOR4 theCenter, theMin, theMax;
+
+	D3DXVec3Transform(&theCenter, &m_vecCenter,  pMatrix);
+	D3DXVec3Transform(&theMin, &m_vecMinExtents, pMatrix);
+	D3DXVec3Transform(&theMax, &m_vecMaxExtents, pMatrix);
+
+	// Min & Max components may have switched places during xform
+
+	Transformed.m_vecMinExtents.x = min( theMin.x, theMax.x );
+	Transformed.m_vecMinExtents.y = min( theMin.y, theMax.y );
+	Transformed.m_vecMinExtents.z = min( theMin.z, theMax.z );
+
+	Transformed.m_vecMaxExtents.x = max( theMin.x, theMax.x );
+	Transformed.m_vecMaxExtents.y = max( theMin.y, theMax.y );
+	Transformed.m_vecMaxExtents.z = max( theMin.z, theMax.z );
+
+	Transformed.m_vecCenter = (Transformed.m_vecMaxExtents + Transformed.m_vecMinExtents) / 2.0f;
+
+	// The bounding radius will either be from the center to the min or the center to the max
+
+	// The max & min distance should be about the same, but I have seen differences, so we will select
+	//  the max of the two anyway to ensure we get it right
+
+	D3DXVECTOR3 maxDirection( Transformed.m_vecMaxExtents - Transformed.m_vecCenter );
+	D3DXVECTOR3 minDirection( Transformed.m_vecMinExtents - Transformed.m_vecCenter );
+
+	float radius1 = maxDirection.x * maxDirection.x +
+					maxDirection.y * maxDirection.y +
+					maxDirection.z * maxDirection.z;
+
+	float radius2 = minDirection.x * minDirection.x +
+					minDirection.y * minDirection.y +
+					minDirection.z * minDirection.z;
+
+	Transformed.m_fRadius = max( sqrtf( radius1 ), sqrtf( radius2 ) );
+
+	*this = Transformed;
+}
+
+}; // nv_objects
+

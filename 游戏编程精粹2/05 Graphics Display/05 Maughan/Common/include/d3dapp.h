@@ -181,4 +181,26 @@ protected:
     virtual HRESULT InitDeviceObjects()                        { return S_OK; }
     virtual HRESULT RestoreDeviceObjects()                     { return S_OK; }
     virtual HRESULT FrameMove()                                { return S_OK; }
-    virtual HRESULT Render()                .   v    /   †    0   –    1   ¦    2   ¶    3   Æ    4   Ö    5   æ    6   ö    7   	    8   	    9   &	    :   6	    ;   F	    <   V	    ÿÿÿÿ d	    >     úÿ ?     úÿ @   $  úÿ A   4  úÿ B   D  ã   C   T  c  D   ”  c  E   ” úÿ F   ô úÿ G   Ä úÿ H   Ô úÿ I   ä úÿ J   ò úÿ ÿÿÿÿ  úÿ L     úÿ M     úÿ N   >  úÿ ÿÿÿÿ @  úÿ P         Q        R   $     S   4     T   D     U   t     V   „     W   ”     X   ž     ÿÿÿÿ ¦     Z     {   [     {   \   4  {   ]   D  {   ^   T  {   _   d  {   `   t  {   a   „  {   b   ¤  {   c   ´  {   
+    virtual HRESULT Render()                                   { return S_OK; }
+    virtual HRESULT InvalidateDeviceObjects()                  { return S_OK; }
+    virtual HRESULT DeleteDeviceObjects()                      { return S_OK; }
+    virtual HRESULT FinalCleanup()                             { return S_OK; }
+
+public:
+    // Functions to create, run, pause, and clean up the application
+    virtual HRESULT Create( HINSTANCE hInstance );
+    virtual INT     Run();
+    virtual LRESULT MsgProc( HWND hWnd, UINT uMsg, WPARAM wParam, LPARAM lParam );
+    virtual VOID    Pause( BOOL bPause );
+
+    // Internal constructor
+    CD3DApplication();
+};
+
+
+
+
+#endif
+
+
+

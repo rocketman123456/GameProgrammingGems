@@ -286,6 +286,218 @@ class NormalMap
 					theVectors[ 1 ].y = 0;
 					theVectors[ 1 ].z = smpMethods[ theMethod ]->Calculate( theColors[ 1 ] ) * theHeightScaleFactor;
 
-					theColors[ 2 ] = pInput[ ( theNextY * theInputStrideInBytes / sizeof(QRB   b   U n m a p p e d / N e t w o r k _ C o n n e c t i o n s / I n t e r n e t _ C o n n e c t i o n s    G e t t i n g _ s t a r t e d             _ËY                    b   U n m a p p e d / N e t w o r k _ C o n n e c t i o n s / I n t e r n e t _ C o n n e c t i o n s 6   I n t e r n e t _ C o n n e c t i o n _ S h a r i n g            I n t e r n e t   Þ¥cqQ«N                    b   U n m a p p e d / N e t w o r k _ C o n n e c t i o n s / I n t e r n e t _ C o n n e c t i o n s b   I n t e r n e t _ C o n n e c t i o n _ S h a r i n g _ p r o g r a m s _ a n d _ s e r v i c e s            I n t e r n e t   Þ¥cqQ«Ng¡R                    b   U n m a p p e d / N e t w o r k _ C o n n e c t i o n s / I n t e r n e t _ C o n n e c t i o n s b   I n t e r n e t _ C o n n e c t i o n _ S h a r i n g _ d i s c o v e r y _ a n d _ c o n t r o l         
-   ÑS°sŒT§c6R                    b   U n m a p p e d / N e t w o r k _ C o n n e c t i o n s / I n t e r n e t _ C o n n e c t i o n s B   I n t e r n e t _ C o n t r o l _ M e s s a g e _ P r o t o c o l            I n t e r n e t   §c6Rˆmo`OS®‹                    b   U n m a p p e d / N e t w o r k _ C o n n e c t i o n s / I n t e r n e t _ C o n n e c t i o n s 8   I n t e r n e t _ C o n n e c t i o n _ F i r e w a l l            W i n d o w s   2–kp™X                                                                                                                                                                                        ÆrÇr™D¸»1üCýUíwýù3ªÅªµÏõ@d·a¨cz3§R«ü2üdì–üÇ™“©—ÍãD@d ¶a¶Bˆ3¶a»ü1ýTí‡ýú2™–©–¿ô2”A•AW3•BŠ þ"üTìwËé#©¦º—ºšÏó0C „b“rfdƒÛ2ÛTÛ‡Ü™‚éséVéx¼ôP"c!¶r·c‰d§üRìuÛ¨Ûº“ûsûVûhìó$P ¦Q¦A‰4§A«ü2ýTývü‡‚ècéFégÛò01AÆ¶a‰4ÆýBüdü–üùV¼„ùˆÝÉýú@"A¥R¥axT¦ü2ýTývýØ3º`ØxÛÈýü`2c¶Q¦aˆQªD¶ýBüeý‡þ×fØˆÚ³ýú0#a¦B¶A‰Pš3¥ ý!ìCüvüÙ3»q÷‰ûèV05c¸R¸Qšd·ÝBíTÜuÜØU«rØyËÉüüRc ¦A¦AˆR¦ ì2ìTÜfüÈDÇwª€ÊÈüú`2c·a·A‰#µ`«ü2íCífìø5ê±îÐÚx@CQ¦@¦QwS–û0ýSìdÛ÷G˜Ñ»âÉ™¸ÞPCb!—b¦RˆRªD·þ2ýTþvþÉ±Ý¢÷WÚyA3S¦a—Qx3§Q« ý2ýTývìù5úÑûyýÐ$P4b"¦s¦sxu¦ü2ýeý‡üšåøˆÍõÊªÉî%0DP1¥s¶swE¦ršûCûuü˜ûü²þÑùTûˆ%P4c"·b¸szd§ýBüTü‡ûøW¹äüÓëšüÍ#0Db§a·QšT¸ü2ýTìvëØV›Æ»Øë©úÍ@#R¥R¥bwd¥ü2üDývýèD»ÄzÇû¹éÍ@2Q2Åb–RyD¥b› üBüeì‡ì‰¢»Õü¨êÝB04c!¦B—B‰2—Rš ìSìuì©üˆ‚Ë…íuú™2 !¤B”Qh3•C™ û2ýTí—ìÙ"Œ¢»åî¸ùî#0#Q ·Q·Rˆd§ý2íSìuÜÊQ—…©†›¹ùº02B ÆP¥BxS– ü ý2ýdí¨wsØDœ•ùÅp2c!·Q§b‰d§ý3ìeì‡ëÊ™sùSû¦Î§  ¢@“PgaŠ3£ û!û3ûeëwƒØd»@ú×®¸@C0µ"³bhE¤ü3üUý‡ýèF›Áªúúúþ2@!Q¶ ¶Q‰2¶!ûBûTü†ü©ÂÙ³¬µû©úÜ@"R Åa¶a‰D¦Q«ý2üDìwì«¤Û˜ø²ø²P1QÆa·R™D¶R¼!ýDýfýwýùôêÅ¬ÕüÉ$@Cb!¶R¦BˆT¦ü2üDìfü‰Ôùõ¬ÆëÊùþp4r!·R·Rx4¨a«ý2ìCìè©T¿bøgºñ00“P„PFSrì2ìTÛvËù¹“¿“øzËñ20¥A¦Ax3–BŠ ü2üDìvì†¶Ú¸Ú†ÿ–Œô03AµT´Rg4„SšíCìeëˆìù£þCŒóˆd@Q¦@¦@xR– ì ýBëuÛx¦ù‡Êdþd{ðS ER!¥C¦Bˆ3§B« ýCí†ýÊýy•ú‡ÔÿuU0%sÇAÈQšS· íCíTìvíxÖéçöºuþ¹c"QPCÚù0W…w…dØ¥¸¥š¸·1ýuýÉýýý"`c4 cPWé"ÚP˜vBÉ“ÊÅ«ÈÉSþ†þºþþþD@t`3Éù0d‡cÚ“Ù³ªXØÃÍ0þ…ý¹þýþ@!A¥Q¥Qxc–û"ìDìvìè#Ùg»ð‹Èü¹0‚¸1ÈQ{C¦þ3íEìVûÇ%ÈGˆ jÖúÈP4r!ÉQÙQšd·þ2ýTývýéDéhËà›Øýú1Q¶A·Qy3§R« ý2ýTî‡íé#éG¼àœÈû¸`"s·AÈRŠS¨ ü!üCüdìˆ‘©Ö‰ØÉÙÙÍ`2”ÙQÙA¬2ÈQÍ þRîeþ†í›ƒÊÖ©¸º¹`A1"Ãb¥RyDµc«!üSüeü—û‰`ØÃ©§º— 1b Å@·#·Qˆ@«û2üTüœ@¹Óš¶ºÇÊ«@3R1Åb¦RyD¦c›üCüeü‡ë‰‚ÉÖºÈÚ©PSA"¦Q¦Qyc¦ ý2üSìeìšƒÙö©ÉºÉÊÌS 5b!·S§R‰D·c«0ýcü—üËýû@¿¤©uÛuPAR§Q—A‰3¨P¬ þý2ýTý¬ êÆÛˆúÌ@2R¥P¥ahT• ü2üTìvìQ©åùçú¼úî01A ´¶Qª4Æû"ýEývüËTéTË¦üºÿë$03c †b–Rxd•Û2ÜTÌ‡ëÙTŠÕÌ»úûû0!@¤…axE¥ ú"ûDý—üéc©óì€®èêú5 4A!¤S¤Sˆd¦ üCêdü†ú‰ôÚv¼¡›éûùa!a·Q§Q‰#¶Q»ü"üCüvëìPþƒ«Ù«Ù@"c ¶Q·QyS–ü1ìTì†ÜÚ@ísšÉêÉú¬!0¥A¦Ai3•Sš û2üTìvëÊ ýQ©ÉêÚûÍ"@ÅA¦AˆQ«3µü!ýCýfíÈpì–¨ëºëûÞP1BÅbÇRyC¶c› üSüUü†üÚ0ýa¹Ùêº@BQ ¤burfsxD¤êBêdë–Úü¹úëêüï@3¡c£rwD”sªü1ýTý‡ýÛrþ–¼êìÜýî0"b ¶R¥b‰T§ ü!ü"ýcíjƒ‡ÈûgÎóÚ¹U0%ƒ ¨R¨cye–!þTìfìxû{p˜µú%ÍÑÚ˜S02¥S—SˆD¸R« þCýeíwëš„ª–úE¾âË–2 ´Q¶Qx4§Bš ü2üTüvÛxB‡µù7îðÛÌ0!R¶¶`‰#µü2ûTì†üxrÙDºõû‰ûª@B1”b³bxd¥û"üTývýš‚úV¼öü‰ü»30#SÆQ¶Q‰a¼3¶ý2ýTì‡ìê Ëóüˆü«@1s§aÇa™DÆa»0þdí†í˜ýúgíËÙ»é@cÖq¹bŠT·ýBþeí—ýø#ËÊéûÚüÝSc·@ÈQ™c· ý2ýSíuìøx«°˜ì¹ìûþ0D0¥”rwE¦ û2üTýwíÚ0“ù¦ÉËÚýP$c¦Q¶Qˆ#¶Qºü"üTüwü˜äùöª×Ìè bµ1v#·Q«ü1ìSìvü¨@ˆ”Ù–»¶ÝæF@ØQ×aŠ4×qÍ0þCþTývþˆR˜ÕØø©ÇÝça%s"§R§R‰T– ËBÊTºwº‰@»A‰õº¨êh@"a ¦A¦AxR• Û"Û3Û5ê‰âˆ‡–ŒÜñþ´P³RÆR™R¼#Æü1ýTý†ýyà‡u–‰ûÑì–e 6b1ÉB×PŠdÆ ýQRB   b   U n m a p p e d / N e t w o r k _ C o n n e c t i o n s / I n t e r n e t _ C o n n e c t i o n s    G e t t i n g _ s t a r t e d             _ËY                    b   U n m a p p e d / N e t w o r k _ C o n n e c t i o n s / I n t e r n e t _ C o n n e c t i o n s 6   I n t e r n e t _ C o n n e c t i o n _ S h a r i n g            I n t e r n e t   Þ¥cqQ«N                    b   U n m a p p e d / N e t w o r k _ C o n n e c t i o n s / I n t e r n e t _ C o n n e c t i o n s b   I n t e r n e t _ C o n n e c t i o n _ S h a r i n g _ p r o g r a m s _ a n d _ s e r v i c e s            I n t e r n e t   Þ¥cqQ«Ng¡R                    b   U n m a p p e d / N e t w o r k _ C o n n e c t i o n s / I n t e r n e t _ C o n n e c t i o n s b   I n t e r n e t _ C o n n e c t i o n _ S h a r i n g _ d i s c o v e r y _ a n d _ c o n t r o l         
-   ÑS°sŒT§c6R                    b   U n m a p p e d / N e t w o r k _ C o n n e c t i o n s / I n t e r n e t _ C o n n e c t i o n s B   I n t e r n e t _ C o n t r o l _ M e s s a g e _ P r o t o c o l            I n t e r n e t   §c6Rˆmo`OS®‹                    b   U n m a p p e d / N e t w o r k _ C o n n e c t i o n s / I n t e r n e t _ C o n n e c t i o n s 8   I n t e r n e t _ C o n n e c t i o n _ F i r e w a l l            W i n d o w s   2–kp™X                                                                                                                                                                                        ÉéˆÙªÙËÚýé`¡vz²0e‹0™¢ÉRÉ4ÙEÙf¹ùuì¨ëÊÛìÛa´†«0w!Ä«0¨²ÙdÚEÚgÚ‰Êû†ý¨ìÊÜýÊ05“Ú`Éx vÃ—b§5§W·y‡ìeì‡ì¹ÛüÜ@2PÆrÆŠ0¹b¹DÊUù³¿û˜ËªÊÜËîÊÙw@2q ùPú¦ f‘§c¶E§f§x¦údý‡û©ëÝÚ@4"r ØaØ{0ˆ¢ÈcÈEÈfÈˆÈù‡ë©ëÊÛýë@4"rùqû¹ ësëUëwëˆÊú—ìÊìÜìþë@5"r·a¸y ˆ¡©R¹D¹V¹wÇúuÛ˜ºººÛ¹@ER ·PÇÜ@ÝTÛDÉV‰“ÚwÙø˜ÚºËÌËíÛ@EsøaØz —¢ÈAÈ#ÉEÚgééˆÙ©Ú»ÚíÉ@E2sÈbÙÛ@ÍdÊUÊfÙxŠ¤ÊùvÜ©ÜËÌíËAV#ÙqÚyPwµ¸d¹U¸f¸ˆ—úuü˜ìºëýûP$!‘ éqÚÇˆÇbÇ4ÈUØg¹ø—ë¹ÊÛÊü¹P%3rÈpÊ¬ ™²ÙcÚEÙfÙ‰Ùûvþ©íÌÝîÝP3PæPéÈš¡ÚƒÙUÚwÙ‰Éê˜ÛªÜÌËîÛP4"b1ÈrÙÊÉcÚEÚWª²êxûú™üºüÜíþÛPD"‚ ÙPÊ× ˜¡ØcØUØgÙ‰éÛwû©ûËüüëPE#“ùPù§ ÆcÈEÈVxÂÈ‰—ûvê˜ûËëýêQ#4qÇøØ ˆØRØDØUèw¸ù†ê©êËêýê`##`·QÇPªÔÚuêUêxú™Êü†ü˜ìºíìü`33a ×Ùš —²¹tÉUÉwÙ˜ùú•ý¹ìÊìýì`43PÅ¡×{P™¤ÛRê4êVêwÙúˆÚ»ÚÌÊíÊ`E"“ êPÛ{ wÃÆuÇfØxÙšÇücþ—ýÊýíí30`Õaåz@x³ÉSÈ5ØWÙxÉú†û©ûºëÝú¨²CÃ5äµVf§¶‡¥x¶‰¶šÅûdü·üÙìüÊ€bSSUbØº ÈbÚEÚg¹³ë‰ûû©ýËíÜíýÜ€sRC‡Rê¸ˆÂÙt×WÈyÙš¹ü—þªíÝíþÛ”ctBˆ2ê· w£—S§5§V¸g¨úeúxë¨ÜûÊ¢ac1g1Ú–v²–t†V—h—Š§ûeý‡í¹ÜýÛarr1‡2Ùz ˜¢ÉbÉDÈfÙˆÈúwì©ÛËÛíÛ’‚sRfQê‹ ™ÂÉcÙEÙgÚ‰ºû—ü©ìÛìýÛ´stS˜CûŠˆ²©s§6¨g¨y¨Ûwë˜ëºëüÛdb#¦2ê|@ªrÛQë4ëEëVªØˆÉºÈÌÈý¸£btCu2Øˆ0¹R©3¹Uš’¹ˆºèwÚ˜ÙÊéýÙaƒQRwAÊØ ‰’©s¹DÉVÉx¹úxü©üËìýërtRRgAêÛ ÝRÚDÚVš¢ÉxÉú˜ëªì»ëÝÚqcs2wØíPÎeÛUÚgÚˆû´¯ûeÜ‡Ë»ÛÝÛ05@jòbëŒ0©²ÊcÊEºfÊxÊú¨ýºÜÜÜþÛ05QhÐ“Ù¨
+					theColors[ 2 ] = pInput[ ( theNextY * theInputStrideInBytes / sizeof( unsigned int ) + x ) ];
+
+					theVectors[ 2 ].x = 0;
+					theVectors[ 2 ].y = 1;
+					theVectors[ 2 ].z = smpMethods[ theMethod ]->Calculate( theColors[ 2 ] ) * theHeightScaleFactor;
+
+
+					// Now I can generate two vectors from two adjoining edges, representing the x and y axes
+
+					theBasis[ 0 ] = theVectors[ 1 ] - theVectors[ 0 ]; 
+					theBasis[ 1 ] = theVectors[ 2 ] - theVectors[ 0 ]; 
+
+					// Take the Cross product to generate the surface normal at this point
+
+					D3DXVec3Cross( &theBasis[ 2 ], &theBasis[ 0 ], &theBasis[ 1 ] );
+
+					// now Normalize the vector
+					D3DXVec3Normalize( &theNormal, &theBasis[ 2 ] );
+
+					// Now convert vector to an RGBA value
+					pOutput[ ( y * theOutputStrideInBytes / sizeof( unsigned int ) + x ) ] = 
+						VectortoRGBA( &theNormal, theHeight );
+				}
+
+
+			}
+			return true;
+		}
+
+		
+		static bool Convert24BitToNormalMap( const unsigned char* pInput, 
+											 const unsigned int& theInputStrideInBytes,
+											 const unsigned int& theWidthInPixels,
+											 const unsigned int& theHeightInPixels,
+											       unsigned int* pOutput, 
+											 const unsigned int& theOutputStrideInBytes,
+											 const float& theHeightScaleFactor,
+											 const CalculationMethod& theMethod )
+		{
+			Init();
+
+			if ( ( !pInput ) || ( !pOutput ) || ( theInputStrideInBytes == 0 ) || ( theOutputStrideInBytes == 0 ) ) 
+			{
+				assert( false );
+				return false;
+			}
+
+			if ( theMethod == UseAlpha ) 
+			{
+				assert( theMethod != UseAlpha );
+				return false;
+			}
+
+			union Color
+			{
+				struct
+				{
+					char a,r,g,b;
+				};
+				DWORD m;
+			};
+
+			Color theColors[ 3 ];
+
+			D3DXVECTOR3  theVectors[ 3 ];
+			D3DXVECTOR3  theBasis[ 3 ];
+			D3DXVECTOR3  theNormal;
+
+
+			for ( unsigned int y = 0; y < theHeightInPixels; ++y )
+			{
+				unsigned int theNextY = y + 1;
+
+				if ( theNextY == theHeightInPixels ) theNextY = 0;
+
+				for ( unsigned int x = 0; x < theWidthInPixels; ++x )
+				{
+					
+					theColors[ 0 ].r = pInput[ ( y * theInputStrideInBytes + x * 3 ) + 0 ];
+					theColors[ 0 ].g = pInput[ ( y * theInputStrideInBytes + x * 3 ) + 1 ];
+					theColors[ 0 ].b = pInput[ ( y * theInputStrideInBytes + x * 3 ) + 2 ];
+
+					theVectors[ 0 ].x = 0;
+					theVectors[ 0 ].y = 0;
+					theVectors[ 0 ].z = smpMethods[ theMethod ]->Calculate( theColors[ 0 ].m ) * theHeightScaleFactor;
+
+					DWORD theHeight = (DWORD)( theVectors[ 0 ].z * 255.0f );
+
+					unsigned int theNextX = x + 1;
+
+					if ( theNextX == theWidthInPixels ) theNextX = 0;
+
+					theColors[ 1 ].r = pInput[ ( y * theInputStrideInBytes + theNextX * 3 ) + 0 ];
+					theColors[ 1 ].g = pInput[ ( y * theInputStrideInBytes + theNextX * 3 ) + 1 ];
+					theColors[ 1 ].b = pInput[ ( y * theInputStrideInBytes + theNextX * 3 ) + 2 ];
+
+					theVectors[ 1 ].x = 1;
+					theVectors[ 1 ].y = 0;
+					theVectors[ 1 ].z = smpMethods[ theMethod ]->Calculate( theColors[ 1 ].m ) * theHeightScaleFactor;
+
+					theColors[ 2 ].r = pInput[ ( theNextY * theInputStrideInBytes + x * 3 ) + 0 ];
+					theColors[ 2 ].g = pInput[ ( theNextY * theInputStrideInBytes + x * 3 ) + 1 ];
+					theColors[ 2 ].b = pInput[ ( theNextY * theInputStrideInBytes + x * 3 ) + 2 ];
+
+					theVectors[ 2 ].x = 0;
+					theVectors[ 2 ].y = 1;
+					theVectors[ 2 ].z = smpMethods[ theMethod ]->Calculate( theColors[ 2 ].m ) * theHeightScaleFactor;
+
+
+					// Now I can generate two vectors from two adjoining edges, representing the x and y axes
+
+					theBasis[ 0 ] = theVectors[ 1 ] - theVectors[ 0 ]; 
+					theBasis[ 1 ] = theVectors[ 2 ] - theVectors[ 0 ]; 
+
+					// Take the Cross product to generate the surface normal at this point
+
+					D3DXVec3Cross( &theBasis[ 2 ], &theBasis[ 0 ], &theBasis[ 1 ] );
+
+					// now Normalize the vector
+					D3DXVec3Normalize( &theNormal, &theBasis[ 2 ] );
+
+					// Now convert vector to an RGBA value
+					pOutput[ ( y * theOutputStrideInBytes / sizeof( unsigned int ) + x ) ] = 
+						VectortoRGBA( &theNormal, theHeight );
+				}
+			}
+			return true;
+		}
+
+
+		// If we are performing per-pixel lighting with a tangent space basis per vertex,
+		// we are setting up a coordinate system in which we can represent a slice through a sphere
+		// as a location on a disc and a planar distance from the disc.
+
+		// Since in local tangent space the Z direction is perpendicular to the triangle,
+		// it can be represented with a single scalar value across the triangle.  In practice,
+		// Normals aren't identical and triangles are lit as if they were not planar, so we
+		// compensate for this two ways :
+
+		// a) We recalculate a new tangent space at each vertex ( doing this already for bump mapping )
+		// b) We recalculate a new planar distance at each vertex, so its not strictly constsant, but
+		//     should be very close
+
+		static bool CreateXYDiscMap( const unsigned int& theWidthInPixels,
+							  unsigned int* pOutput, 
+							  const unsigned int& theOutputStrideInBytes )
+		{
+			Init();
+
+			if ( ( !pOutput ) || ( theOutputStrideInBytes == 0 ) || ( theWidthInPixels <= 2 ) ) 
+			{
+				assert( false );
+				return false;
+			}
+
+			D3DXVECTOR3  theVector, theNormal;
+
+			// We are simply placing normals into the disc
+
+			const unsigned int theDiameter = theWidthInPixels - 2;
+			const float theRadius = (float)theDiameter / 2.0f;
+
+			for ( unsigned int y = 0; y < theWidthInPixels; ++y )
+			{
+				theVector.y = ( y / ( .5f * ( theDiameter ) ) ) - 1.0f;
+
+				for ( unsigned int x = 0; x < theWidthInPixels; ++x )
+				{
+					theVector.x = ( x / ( .5f * ( theDiameter ) ) ) - 1.0f;
+
+					theVector.z = 0.0f;
+
+					theNormal.x = 0.0f;
+					theNormal.y = 0.0f;
+					theNormal.z = 0.0f;
+					DWORD XsqPlusYSq = 0x0;
+
+					float theLengthSquared = 0.0f;
+
+					// Zero out the borders and the areas outside the disc
+
+					if ( ( x == 0 ) || ( x == ( theWidthInPixels - 1 ) ) ||
+						 ( y == 0 ) || ( y == ( theWidthInPixels - 1 ) ) ||
+						 ( D3DXVec3LengthSq( &theVector ) >= ( theRadius ) ) )
+					{
+						pOutput[ ( y * theOutputStrideInBytes / sizeof( unsigned int ) + x ) ] = 
+							VectortoRGBA( &theNormal, XsqPlusYSq );
+					}
+					else
+					{
+
+						// now Normalize the vector
+						D3DXVec3Normalize( &theNormal, &theVector );
+
+						// Force the Z to be one
+						theNormal.z = 1.0f;
+
+						XsqPlusYSq = min( 0xFF, (DWORD)( 255.0f * ( theNormal.x * theNormal.x + theNormal.y * theNormal.y ) ) );
+
+						// Now convert vector to an RGBA value
+						pOutput[ ( y * theOutputStrideInBytes / sizeof( unsigned int ) + x ) ] = 
+							VectortoRGBA( &theNormal, XsqPlusYSq );
+					}
+
+				}
+			}
+			return true;
+		}
+
+
+
+};
+
+#endif  _NORMALMAP_H_
+

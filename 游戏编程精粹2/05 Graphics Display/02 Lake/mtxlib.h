@@ -783,4 +783,69 @@ public:
   // Multiply a vector4 by this matrix44
   friend vector4    operator * (const matrix44 &m, const vector4 &v) {
     vector4 ret;
-    ret.x = v.x * m[0][0] + v.y * m[1][0] + v.z * m[2][0                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   
+    ret.x = v.x * m[0][0] + v.y * m[1][0] + v.z * m[2][0] + v.w * m[3][0];
+    ret.y = v.x * m[0][1] + v.y * m[1][1] + v.z * m[2][1] + v.w * m[3][1];
+    ret.z = v.x * m[0][2] + v.y * m[1][2] + v.z * m[2][2] + v.w * m[3][2];
+    ret.w = v.x * m[0][3] + v.y * m[1][3] + v.z * m[2][3] + v.w * m[3][3];
+    return ret;
+  }
+  // Multiply a vector4 by this matrix44
+  friend vector4    operator * (const vector4 &v, const matrix44 &m) {
+    vector4 ret;
+    ret.x = DotProduct(m[0], v);
+    ret.y = DotProduct(m[1], v);
+    ret.z = DotProduct(m[2], v);
+    ret.w = DotProduct(m[3], v);
+    return ret;
+  }
+  // Multiply matrix44 by a float
+  friend matrix44   operator * (const matrix44 &m, float f) {
+    matrix44 ret(m);
+    ret *= f;
+    return ret;
+  }
+  // Set matrix44 to the identity matrix
+  friend matrix44   operator * (float f, const matrix44 &m) {
+    matrix44 ret(m);
+    ret *= f;
+    return ret;
+  }
+
+public:
+  // Methods
+  // Set matrix44 to the identity matrix
+  matrix44      &identity() {
+    col[0].set(1.0, 0.0, 0.0, 0.0);
+    col[1].set(0.0, 1.0, 0.0, 0.0);
+    col[2].set(0.0, 0.0, 1.0, 0.0);
+    col[3].set(0.0, 0.0, 0.0, 1.0);
+    return *this;
+  }
+  // Transpose the matrix44
+  matrix44      &transpose();
+  // Invert the matrix44
+  matrix44      &invert();
+
+  // Debug
+  void          fprint(FILE* file, char* str) const;
+};
+
+matrix44    IdentityMatrix44();
+matrix44    TransposeMatrix44(const matrix44 &m);
+matrix44    InvertMatrix44(const matrix44 &m);
+matrix44    RotateRadMatrix44(char axis, float rad);
+matrix44    RotateRadMatrix44(const vector3 &axis, float rad);
+matrix44    TranslateMatrix44(float x, float y, float z);
+matrix44    ScaleMatrix44(float x, float y, float z, float w = 1.0);
+matrix44    LookAtMatrix44(const vector3 &camPos, const vector3 &camUp, 
+    const vector3 &target );
+matrix44    FrustumMatrix44(float l, float r, float b, float t, 
+    float n, float f);
+matrix44    PerspectiveMatrix44(float fovY, float aspect, 
+    float n, float f);
+matrix44    OrthoMatrix44(float l, float r, float b, float t, 
+    float n, float f);
+matrix44    OrthoNormalMatrix44(const vector3 &xdir, 
+    const vector3 &ydir, const vector3 &zdir);
+
+#endif

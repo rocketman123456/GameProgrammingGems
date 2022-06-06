@@ -1,25 +1,53 @@
-etup\syssetup\services.c,408,,MyChangeServiceConfig: Unlocked ServiceDatabase for service ClipSrv
-08/25/2008 16:56:18.280,d:\xpsp\base\ntsetup\syssetup\services.c,334,,MyChangeServiceConfig: LockingServiceDatabase for service NetDDE
-08/25/2008 16:56:18.280,d:\xpsp\base\ntsetup\syssetup\services.c,408,,MyChangeServiceConfig: Unlocked ServiceDatabase for service NetDDE
-08/25/2008 16:56:18.280,d:\xpsp\base\ntsetup\syssetup\services.c,334,,MyChangeServiceConfig: LockingServiceDatabase for service NetDDEdsdm
-08/25/2008 16:56:18.280,d:\xpsp\base\ntsetup\syssetup\services.c,408,,MyChangeServiceConfig: Unlocked ServiceDatabase for service NetDDEdsdm
-08/25/2008 16:56:18.280,d:\xpsp\base\ntsetup\syssetup\syssetup.c,3897,BEGIN_SECTION,Loading service pack (phase 4)
-08/25/2008 16:56:18.280,d:\xpsp\base\ntsetup\syssetup\syssetup.c,3899,END_SECTION,Loading service pack (phase 4)
-08/25/2008 16:56:18.280,d:\xpsp\base\ntsetup\syssetup\syssetup.c,3906,BEGIN_SECTION,Network setup handling Internet Server issues
-08/25/2008 16:56:18.280,d:\xpsp\base\ntsetup\syssetup\syssetup.c,3912,END_SECTION,Network setup handling Internet Server issues
-08/25/2008 16:56:18.296,d:\xpsp\base\ntsetup\syssetup\syssetup.c,3939,BEGIN_SECTION,Setting up virtual memory
-08/25/2008 16:56:18.296,d:\xpsp\base\ntsetup\syssetup\log.c,133,,SetUpVirtualMemory: ENTER
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: SimpleFlocking - Win32 Release--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\WINDOWS\TEMP\RSPD0C6.TMP" with contents
+[
+/nologo /ML /W3 /GX /O2 /D "WIN32" /D "NDEBUG" /D "_CONSOLE" /D "_MBCS" /D "CBOID_DEBUG" /FR"Release/" /Fp"Release/SimpleFlocking.pch" /YX /Fo"Release/" /Fd"Release/" /FD /c 
+"C:\WINDOWS\Desktop\Gems2 CD\SourceCode\03 Artificial Intelligence\11 Woodcock\simpleflocking\CBoid.cpp"
+"C:\WINDOWS\Desktop\Gems2 CD\SourceCode\03 Artificial Intelligence\11 Woodcock\simpleflocking\CBox.cpp"
+"C:\WINDOWS\Desktop\Gems2 CD\SourceCode\03 Artificial Intelligence\11 Woodcock\simpleflocking\CFlock.cpp"
+"C:\WINDOWS\Desktop\Gems2 CD\SourceCode\03 Artificial Intelligence\11 Woodcock\simpleflocking\main.cpp"
+"C:\WINDOWS\Desktop\Gems2 CD\SourceCode\03 Artificial Intelligence\11 Woodcock\simpleflocking\mtxlib.cpp"
+"C:\WINDOWS\Desktop\Gems2 CD\SourceCode\03 Artificial Intelligence\11 Woodcock\simpleflocking\myprintf.c"
+"C:\WINDOWS\Desktop\Gems2 CD\SourceCode\03 Artificial Intelligence\11 Woodcock\simpleflocking\vector.cpp"
+]
+Creating command line "cl.exe @C:\WINDOWS\TEMP\RSPD0C6.TMP" 
+Creating temporary file "C:\WINDOWS\TEMP\RSPD0C7.TMP" with contents
+[
+kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib winmm.lib /nologo /subsystem:console /incremental:no /pdb:"Release/SimpleFlocking.pdb" /machine:I386 /out:"Release/SimpleFlocking.exe" 
+".\Release\CBoid.obj"
+".\Release\CBox.obj"
+".\Release\CFlock.obj"
+".\Release\main.obj"
+".\Release\mtxlib.obj"
+".\Release\myprintf.obj"
+".\Release\vector.obj"
+]
+Creating command line "link.exe @C:\WINDOWS\TEMP\RSPD0C7.TMP"
+<h3>Output Window</h3>
+Compiling...
+CBoid.cpp
+CBox.cpp
+CFlock.cpp
+main.cpp
+mtxlib.cpp
+myprintf.c
+vector.cpp
+Linking...
+Creating command line "bscmake.exe /nologo /o"Release/SimpleFlocking.bsc"  ".\Release\CBoid.sbr" ".\Release\CBox.sbr" ".\Release\CFlock.sbr" ".\Release\main.sbr" ".\Release\mtxlib.sbr" ".\Release\myprintf.sbr" ".\Release\vector.sbr""
+Creating browse info file...
+<h3>Output Window</h3>
 
-08/25/2008 16:56:18.296,d:\xpsp\base\ntsetup\syssetup\log.c,133,,BuildVolumeFreeSpaceList: C:\, spc=8, bps=512, freeclus=7330745, totalclus=7679062
 
-08/25/2008 16:56:18.296,d:\xpsp\base\ntsetup\syssetup\log.c,133,,BuildVolumeFreeSpaceList: C:\, FreeSpace = 64256927744
 
-08/25/2008 16:56:18.296,d:\xpsp\base\ntsetup\syssetup\log.c,133,,BuildVolumeFreeSpaceList: C:\ had 120586240 byte pagefile, new FreeSpace = 782546688
-
-08/25/2008 16:56:18.296,d:\xpsp\base\ntsetup\syssetup\log.c,133,,BuildVolumeFreeSpaceList: Free space on C:\ is 28750 MB
-
-08/25/2008 16:56:18.327,d:\xpsp\base\ntsetup\syssetup\log.c,133,,SetUpVirtualMemory: loc 1
-
-08/25/2008 16:56:18.327,d:\xpsp\base\ntsetup\syssetup\log.c,133,,∞≤◊∞≥Ã–Ú≈‰÷√¡ÀœµÕ≥£¨‘⁄«˝∂Ø∆˜ C: …œ◊∞»Î¡À“ª∏08/25/2008 16:56:18.327,d:\xpsp\base\ntsetup\syssetup\log.c,133,,“—∆Ù∂Øπ ’œ◊™08/25/2008 16:56:18.327,d:\xpsp\base\ntsetup\syssetup\log.c,133,,SetUpVirtualMemory: EXIT (1)
-
-08/25/2008 16:56:18
+<h3>Results</h3>
+SimpleFlocking.exe - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>
